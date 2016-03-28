@@ -15,7 +15,7 @@ Bug statuses for issue tracker
   - Accepted
   - Fixed
 
-Components examples
+Issue category examples
 - Health
 - Rationality
 - Morality
