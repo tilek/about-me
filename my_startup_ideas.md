@@ -30,7 +30,7 @@
 ## Goal: Everyone has access to Internet.
   - Decentralized Internet
 
-Tier 3 - Large challenges.
+# Tier 3 - Large challenges.
 
 ## Goal: Great customer service and accountability for all services.
 
