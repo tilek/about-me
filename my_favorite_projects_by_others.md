@@ -11,12 +11,14 @@ Domain: Cause Prioritization, Effective Altruism, Rationality
   - Guesstimate
   
 Domain: Existential Risk
+  - Open AI
   - Future of Humanity Institute 
   - Future of Life Institute 
   - Machine Intelligence Research Institute
 
 Domain: Artificial Intelligence
   - Deep Mind
+  - Tensor Flow
 
 Domain: Learning & Reference
   - Serious
