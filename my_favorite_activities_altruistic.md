@@ -2,7 +2,7 @@ Activities I enjoy that could be altruistic
 
 # 1. Individual
 
-- Organizing and visualizing information
+- Organizing and visualizing information, data normalization
   - Graphs
     Examples:
     - ISP ASNs in Kyrgyzstan
@@ -27,6 +27,7 @@ Activities I enjoy that could be altruistic
     Examples: 
     - Super Quick Notes (Chrome extension based on Quill JS)
     - Momento (Android app)
+    - energy grid map
   - Coding with static visual results:
   - Coding with alphanumerical results
   
