@@ -1,6 +1,6 @@
 # Tier 1 - Meta challenges.
 
-## Goal: Metasystems that help every individual and humanity as a whole.
+## Goal: Sociopolitical systems help every individual and humanity as a whole are adapted everywhere.
   - Better version of capitalism or a brand new system
   - Better version of democracy or  abrand new system
 
@@ -10,20 +10,7 @@
   - Dashboard of most important metrics for humanity
 
 ## Goal: Every individual acts rationally.
-  - Life assistant
-    - Help people with key life decisions (school, student loan, profession, employer, life partner, children, house purchase/loan, car purchase/loan, relocation, investment)
-    - Help people build strong routines (build good habits, break bad habits)
-    - Help people with medium term decisions (friends circle, planning routines)
-    - Help people manage their time and tasks effectively
-    - Address boredom or aimless browsing by attracting to a useful action
-    - Hardware to measure and track own feelings/emotions/happiness
-    - Teach people how to learn
-    - Address biases (politics, religion, climate change, stereotypes, media bias, information bubble)
-    - Help people act on issues they already believe in (climate change, altruism)
-    - Motivational photos, quotes, videos
-  - Quora for life advice
-  - ZocDoc for life coaches
-  - Frameworks for decision making and goal prioritization
+  For more infor see: https://github.com/tilek/text/blob/master/individual_rationality
 
 ## Goal: Everyone does only what they enjoy doing summing up to long term net positive for everyone.
   - Help people find and expand their "ikigai"
