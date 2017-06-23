@@ -3,6 +3,7 @@
 ## Goal: Global goals are prioritized rationally.
   - Frameworks for global goal and effort prioritizations
   - Database of people's estimations
+  - Dashboard of most important metrics for humanity
 
 ## Goal: Everyone acts rationally.
   - Life coach AI
@@ -11,6 +12,8 @@
     - Motivational photos, quotes, videos
     - Address boredom or aimless browsing by attracting to a useful action
     - Hardware to measure and track own feelings/emotions/happiness
+  - ZocDoc for life coaches
+  - Quora for life advice
   - Frameworks for decision making and goal prioritization
 
 ## Goal: Everyone does only what they enjoy doing summing up to long term net positive for everyone.
