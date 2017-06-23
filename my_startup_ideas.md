@@ -1,5 +1,9 @@
 # Tier 1 - Meta challenges.
 
+## Goal: Metasystems that help every individual and humanity as a whole.
+  - Better version of capitalism or brand new system
+  - Better version of democracy or brand new system
+
 ## Goal: Global goals are prioritized rationally.
   - Frameworks for global goal and effort prioritizations
   - Database of people's estimations
