@@ -7,15 +7,16 @@
 
 ## Goal: Every individual acts rationally.
   - Life assistant
-    - Help people with key life decisions
-    - Help people manage their time and tasks effectively
+    - Help people with key life decisions (school, student loan, profession, employer, life partner, children, house purchase/loan, car purchase/loan, relocation, investment)
     - Help people build strong routines (build good habits, break bad habits)
-    - Motivational photos, quotes, videos
+    - Help people with medium term decisions (friends circle, planning routines)
+    - Help people manage their time and tasks effectively
     - Address boredom or aimless browsing by attracting to a useful action
     - Hardware to measure and track own feelings/emotions/happiness
     - Teach people how to learn
     - Address biases (politics, religion, climate change, stereotypes, media bias, information bubble)
     - Help people act on issues they already believe in (climate change, altruism)
+    - Motivational photos, quotes, videos
   - Quora for life advice
   - ZocDoc for life coaches
   - Frameworks for decision making and goal prioritization
