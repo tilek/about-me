@@ -22,7 +22,7 @@
 
 # Tier 2 - Top challenges.
 
-## Goal: Everyone has access to diverse entertaining options for world-class education.
+## Goal: Everyone has access to diverse entertaining options for world-class education and teachers.
   - Global competition among educators and educational content providers
   - VC-like funding model for students
 
