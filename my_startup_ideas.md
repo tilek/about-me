@@ -5,7 +5,7 @@
   - Database of people's estimations
   - Dashboard of most important metrics for humanity
 
-## Goal: Everyone acts rationally.
+## Goal: Every individual acts rationally.
   - Life coach AI
     - Help people with key life decisions
     - Help people manage their time and tasks effectively
