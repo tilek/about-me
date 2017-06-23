@@ -10,7 +10,7 @@
   - Dashboard of most important metrics for humanity
 
 ## Goal: Every individual acts rationally.
-  For more infor see: https://github.com/tilek/text/blob/master/individual_rationality
+  For more info see: https://github.com/tilek/text/blob/master/individual_rationality
 
 ## Goal: Everyone does only what they enjoy doing summing up to long term net positive for everyone.
   - Help people find and expand their "ikigai"
