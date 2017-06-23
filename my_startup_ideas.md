@@ -14,7 +14,7 @@
     - Address boredom or aimless browsing by attracting to a useful action
     - Hardware to measure and track own feelings/emotions/happiness
     - Teach people how to learn
-    - Address biases (religion, climate change, stereotypes, media bias, information bubble)
+    - Address biases (politics, religion, climate change, stereotypes, media bias, information bubble)
     - Help people act on issues they already believe in (climate change, altruism)
   - Quora for life advice
   - ZocDoc for life coaches
