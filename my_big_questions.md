@@ -16,7 +16,7 @@ DRAFT
   - aging
 
 - Would it be possible to keep our universe inhabitable forever or create a new one and move some life there before universe becomes uninhabitable?
-- What is a probability that someone who is alive now (2016-03-27) will live more than 1000 years?
+- What is the probability that someone who is alive now (2016-03-27) will live more than 200, 500, 1000, 10^x years?
 - What is the probability that humanity's greenhouse gas emissions will make planet completely uninhabitable?
   
 # Just Interesting
