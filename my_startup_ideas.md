@@ -6,14 +6,18 @@
   - Dashboard of most important metrics for humanity
 
 ## Goal: Every individual acts rationally.
-  - Life coach AI
+  - Life assistant
     - Help people with key life decisions
     - Help people manage their time and tasks effectively
+    - Help people build strong routines (build good habits, break bad habits)
     - Motivational photos, quotes, videos
     - Address boredom or aimless browsing by attracting to a useful action
     - Hardware to measure and track own feelings/emotions/happiness
-  - ZocDoc for life coaches
+    - Teach people how to learn
+    - Address biases (religion, climate change, stereotypes, media bias, information bubble)
+    - Help people act on issues they already believe in (climate change, altruism)
   - Quora for life advice
+  - ZocDoc for life coaches
   - Frameworks for decision making and goal prioritization
 
 ## Goal: Everyone does only what they enjoy doing summing up to long term net positive for everyone.
