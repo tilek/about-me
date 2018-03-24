@@ -3,17 +3,21 @@ Activities I enjoy that could be altruistic
 # 1. Individual
 
 - Organizing and visualizing information, data normalization
-  - Graphs
+  - Diagrams
     Examples:
     - ISP ASNs in Kyrgyzstan
     - Webspam classification
     - Applied Rationality Techniques
     - Alphabet subsidiaries org structure
+    - Google Cloud-based infrastructure (2018-02/2018-03)
   - Sheets
   - Lists
   - Maps
     Examples:
     - Coverage of population
+  - Charts
+    Examples:
+    - How mobile Internet affordability affects mobile Internet usage
   - Folders
   
 - Long-term planning
