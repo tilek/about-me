@@ -4,6 +4,7 @@ Activities I enjoy that could be altruistic
 
 - Organizing and visualizing information, data normalization
   - Diagrams
+  
     Examples:
     - ISP ASNs in Kyrgyzstan
     - Webspam classification
@@ -13,6 +14,7 @@ Activities I enjoy that could be altruistic
   - Sheets
   - Lists
   - Maps
+  
     Examples:
     - Coverage of population
   - Charts
