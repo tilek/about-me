@@ -23,6 +23,7 @@ Activities I enjoy that could be altruistic
   - Folders
   
 - Long-term planning
+
   Examples:
   - Central Asia strategy
   - Mission for humanity
@@ -30,6 +31,7 @@ Activities I enjoy that could be altruistic
   
 - Coding (after everything is setup)
   - Coding with interactive visual results:
+  
     Examples: 
     - Super Quick Notes (Chrome extension based on Quill JS)
     - Momento (Android app)
@@ -48,6 +50,7 @@ Activities I enjoy that could be altruistic
 - Teaching people
 
 - Talking about big/fundamental/top-priority ideas and questions
+
   Examples:
   - Consciousness
   - Singularity
@@ -57,14 +60,17 @@ Activities I enjoy that could be altruistic
   - Nature of reality
 
 - Connecting people
+
   Examples:
   - Kyrgyzstan/Kazakhstan tech scene + Google
 
 - Leading international cross-functional collaboration
+
   Examples:
   - Google Elections in Kyrgyzstan
 
 - Organizing communities
+
   Examples:
   - Developers of Kyrgyzstan group on G+
   - LinkedIn groups
