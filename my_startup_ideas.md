@@ -20,6 +20,55 @@
     - What they can be doing that is good for the world in the long term
   - Inspire people that do things that helps them and the world in the long term
 
+## Goal: Business is aligned with long-term benefits of customers
+
+  - Life tracking & analysis, issue tracker
+    - Sleep
+    - Food
+     - Understand trends to adapt diet (e.g. missing nutrients, eating too much of something)
+     - Allergies / intolerances (e.g. for mom and dad)
+     - Food classification (e.g. tree), food consciousness
+     - Food pokemon / food collection
+    - States of energy, mood and self-control
+     - State of flow / being in the zone
+     - Procrastination (e.g. red button for procrastination)
+     - Stress
+     - Happiness
+    - Time spent, rate time spent (linked to calendars)
+     - Social media (Facebook, Twitter, YouTube, Instagram, Snapchat, Strava)
+     - Family
+     - Friends
+     - Entertainment (video, museum, opera, orchestra)
+    - Life management
+     - House management
+     - Tax
+    - Health
+     - Analysis
+     - Health finance, health insurance
+     - Regular exercise
+     - Social exercise
+    - Communication quality
+     - Ineffective communication (e.g. anger, negativity, cursing)
+    - Life coaching
+    - Relationship coaching
+     - Roommate referee
+    - Therapy
+    - Social relations tracking (e.g. "spreadsheet of people")
+    - Motivational website
+     - Why do people love doing certain things and how did they get started?
+      - Work (software engineering, doctor, diagrams, spreadsheets)
+      - Hobbies (jazz, drums, running, climbing, calligraphy, growing mushrooms)
+      - Selfish (e.g. "taste swap")
+       - Eating: olives
+       - Listening to music (e.g. heavy metal)
+    - Issue tracker
+     - Being in the society (e.g. grooming, hygiene)
+     - Social interactions
+     - Forgetting and losing things
+     - Language
+      - Speaking
+      - Writing
+    - Task prioritization
 
 # Tier 2 - Top challenges.
 
@@ -34,6 +83,7 @@
 # Tier 3 - Large challenges.
 
 ## Goal: Prioritizing Internet communication is very easy.
+  - Note: email allows for an overload of information
 
 ## Goal: Everyone is able to move their most important data to any platform.
 
@@ -48,7 +98,7 @@
 
 ## Domain: Human Augmentation
 
-## Domain: 
+## Domain: Apps for Life
 
 ## Domain: Social, political and economic frameworks
   - Country-level framework inspired by Burning Man
