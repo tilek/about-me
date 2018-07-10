@@ -69,6 +69,7 @@
       - Speaking
       - Writing
     - Task prioritization
+    - Personalized meditation (your partner could read it, different languages)
 
 # Tier 2 - Top challenges.
 
