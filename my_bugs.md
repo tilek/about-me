@@ -22,3 +22,6 @@ Issue category examples
 - Communication
 - Collaboration
 - Living together
+
+Raw notes
+- pivoting certain % of discussion topics to myself (reported by Aijan)
