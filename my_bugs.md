@@ -24,4 +24,7 @@ Issue category examples
 - Living together
 
 Raw notes
+
+- forgetting medium value (e.g. $50 water bottle items and high-value items (e.g. hearing aid)) in other people's buildings/rooms
+- sometimes emailing people asking a questions and not replying or replying too late
 - pivoting certain % of discussion topics to myself (reported by Aijan)
