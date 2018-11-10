@@ -44,6 +44,7 @@ Activities I enjoy that could be altruistic
   - Bilim and Earth Engine integration
   
 - Organizing physical objects
+- Photoshopping my friends' faces into things for fun
 
 # 2. Social
 
