@@ -6,6 +6,7 @@ This document doesn't include thousands of things I want to improve even if I fe
 
 Levels are sorted from the more severe to less severe:
 
+
 Level 1. 🤣
 
 
@@ -16,6 +17,7 @@ Individual:
 
 Communication:
 - English language: some grammar, some pronounciation, some punctuation
+
 
 
 Level 2. 🙄
