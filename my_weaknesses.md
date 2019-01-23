@@ -8,30 +8,32 @@ This document is meant to include only #2.
 It is only a start and I welcome you to provide feedback on this list.
 
 Levels below sorted from more severe to less severe:
-<br><br>
-
+<br>
+<br>
+<br>
 LEVEL 1. 🤣
-<br><br>
-
+<br>
+<br>
 Individual:
 - Memory: losing and forgetting physical objects (passport, hearing aid, water bottle) [trying to address it by checking items before leaving a place]
 - Rational actions: delaying getting reimbursements (e.g. from health insurance)
 - Reading: reading attention, speed, and volume [for now only addressing by listening to audiobooks]
-
+<br>
+<br>
 Communication:
 - English language: some grammar, some pronunciation, some punctuation
-<br><br>
-
-
+<br>
+<br>
+<br>
 LEVEL 2. 🙄
-<br><br>
-
+<br>
+<br>
 Individual:
 - Memory: losing and forgetting some small verbal promises [trying to address it by writing down promises, checking my calendar for meeting agreements in advance]
 - Sense of time: losing track of time trying to address this by extensively using digital reminders and alarms]
 - Rational actions: sometimes wasting more than an hour on YouTube when I am tired [trying to address it by running and going to sleep]
-
-
+<br>
+<br>
 Communication:
 - Overall: struggling to balance between speaking very positively about my achievements and being too self-boasting
 - Face-to-face conversations: can be thinking deeply about something and miss when a person is trying to talk to me
