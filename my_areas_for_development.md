@@ -4,7 +4,7 @@ There are thousands of areas where I am at a lower level than people around me.
 I am creating this document in order to start capturing some of them.
 This document doesn't include thousands of things I want to improve even if I feel I am above average.
 
-Level 1. 🤣
+Severity Level 1. 🤣
 
 
 Individual:
@@ -16,7 +16,7 @@ Communication:
 - English language: some grammar, some pronounciation, some punctuation
 
 
-Level 2. 🙄
+Severity Level 2. 🙄
 
 
 Individual:
