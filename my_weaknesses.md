@@ -20,7 +20,7 @@ LEVEL 1. 🤣
 <br>
 Individual:
 
-* Reading: reading attention, speed, and volume [for now only addressing by listening to audiobooks]
+* Reading: reading attention, speed, and volume [for now addressing by listening to audiobooks, watching videos, reading summaries, being surrounded by people who read those books]
 * Memory: losing and forgetting physical objects (passport, hearing aid, water bottle) [trying to address it by scanning the place before leaving it]
 * Rational actions: delaying getting reimbursements (e.g. from health insurance)
 <br>
