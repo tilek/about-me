@@ -1,6 +1,8 @@
 DRAFT
 
-My causes for next 100 years as of 2017-06-07
+Last updated: 2017-06-07
+
+My causes for next 100 years
 
 Passionate:
 - Children's education
