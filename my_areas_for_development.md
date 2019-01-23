@@ -7,7 +7,7 @@ This document doesn't include thousands of things I want to improve even if I fe
 Levels are sorted from the more severe to less severe:
 
 
-Level 1. 🤣
+LEVEL 1. 🤣
 
 
 Individual:
@@ -20,7 +20,7 @@ Communication:
 
 
 
-Level 2. 🙄
+LEVEL 2. 🙄
 
 
 Individual:
