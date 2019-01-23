@@ -117,9 +117,9 @@ This is a draft with quite raw and too little afterthought and censorship.
   - Ability to input information and get output hands-free, privately, in a noisy environment
 
 ## Domain: Social, political and economic frameworks
-  - Country-level framework inspired by Burning Man
   - New passport
   - New country
+  - Country-level framework inspired by Burning Man
   
 ## Domain: Communication
   - Ability to send and receive an expression of gratitude at a touch of a button
