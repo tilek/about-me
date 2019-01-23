@@ -17,34 +17,37 @@ Organizations working on this goal:
 2. Economic and political systems that help every individual and humanity as a whole are adapted everywhere.
 - Capitalism and democracy in most countries could be significantly improved.
 - Social democracy in Sweden and Norway are good use cases to study.
-- Systems should should make it easy for altruistic people from the global bottom to become smarter, more energetic and rise to the world's most powerful positions.
-  Current systems often have wealthy corrupt families and groups of families in charge.
-  Children born poor often have poor health, parenting, and schooling.
 - Smartest and most altruistic people are more powerful than others.
-  Currently a lot of power is gained based on inheritance or a capture of natural resource extraction. 
+
 - Countries act rationally prioritizing long-term goals for themselves.
   Current democracies often time resort to solutions that are irrational for the long-term.
   
 Organizations working on this goal: 
 - ?
+
+3. Power is well distributed and gained meritocratically by most intelligent, most rational and most altruistic people
+- Currently a lot of power is gained based on inheritance, luck (natural resources in your country) or unethical actions. 
+- Systems should should make it easy for altruistic people from the global bottom to become smarter, more energetic and rise to the world's most powerful positions.
+  Current systems often have wealthy corrupt families and groups of families in charge.
+  Children born poor often have poor health, parenting, and schooling.
   
-3. Global goals are prioritized rationally.
+4. Global goals are prioritized rationally.
 - Existential risks, long-term benefits and risks need to be prioritized rationally
 - Countries and individuals cooperate altruistically and successfully to set and achieve global goals
 
 Organizations working on this goal: 
 - United Nations
 
-4. Every individual acts rationally.
+5. Every individual think and acts rationally.
 For more info see: https://github.com/tilek/text/blob/master/individual_rationality
 
 Organizations working on this goal: 
 - Center for Applied Rationality
 
-5. Every individual acts altruistically
+6. Every individual enjoys helping others
 - [Golden rule] Individuals impact other people and animals as they would like those to impact them in the same position
 
-6. Every has sustenance needs covered enough for good bodily and mental health
+7. Every child has sustenance needs covered enough for good bodily and mental health
 - Vaccinations
 - Basic healthy food and water
 - Shelter
@@ -52,6 +55,8 @@ Organizations working on this goal:
 
 Organizations working on this goal: 
 - Bill & Melinda Gates Foundation
+
+8. Earth biodiversity is higher and most resilient than ever before.
 
 ======================================================================================================================================
 Tier 2 Goals:
