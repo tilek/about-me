@@ -18,10 +18,10 @@ This is a draft with ideas that are quite raw and have too little afterthought a
   - Dashboard of most important metrics for humanity
 
 ## Goal: A business that is maximally aligned with long-term customer value
-  For more info see: https://github.com/tilek/text/blob/master/idea_drafts/tools_to_improve_life
+  For more info see: https://github.com/tilek/text/blob/master/idea_drafts/tools_to_improve_life.md
 
 ## Goal: Every individual acts rationally.
-  For more info see: https://github.com/tilek/text/blob/master/idea_drafts/individual_rationality
+  For more info see: https://github.com/tilek/text/blob/master/idea_drafts/individual_rationality.md
 
 ## Goal: Everyone does only what they enjoy doing in a way that still greatly benefits the world in general.
   - Help people find and expand their "ikigai", an intersection of:
