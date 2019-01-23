@@ -94,6 +94,8 @@
 
 ## Goal: Great customer service and accountability for all services.
 
+## Goal: Great way to give feedback to and receive feedback from friends
+
 
 # Tier 4 - Inspired by solutions rather than goals
 
