@@ -1,14 +1,17 @@
-DRAFT
+DRAFT - This document is a quick draft, please avoid expecting completeness and deeply-thought-out revisions.
 
-There are thousands of areas where I am at a lower level than people around me.
-I am creating this document in order to start capturing some of them.
-This document doesn't include thousands of things I want to improve even if I feel I am above average.
+I differentiate weaknesses and areas for development this way:
+#1. Weaknesses: something that strikes people as lower than average in their group
+#2. Areas for development: areas I think are most important to improve in
 
-Levels are sorted from the more severe to less severe:
+This document is meant to include only #2.
+It is only a start and I welcome you to provide feedback on this list.
 
+Levels below sorted from more severe to less severe:
+<br><br>
 
 LEVEL 1. 🤣
-
+<br><br>
 
 Individual:
 - Memory: losing and forgetting physical objects (passport, hearing aid, water bottle) [trying to address it by checking items before leaving a place]
@@ -17,11 +20,11 @@ Individual:
 
 Communication:
 - English language: some grammar, some pronunciation, some punctuation
-
+<br><br>
 
 
 LEVEL 2. 🙄
-
+<br><br>
 
 Individual:
 - Memory: losing and forgetting some small verbal promises [trying to address it by writing down promises, checking my calendar for meeting agreements in advance]
