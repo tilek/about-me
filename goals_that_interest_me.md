@@ -4,13 +4,13 @@ This is a draft with ideas that are quite raw and have too little afterthought a
 
 ## Goal: Raise the safety of humanity and life in general to a very high level
   - Raise the likelihood of a positive outcome from the invention of strong AI to an extremely high level
-  - Decrease the likelihood of a significant and irreversable negative outcome from climate damage to an extremely low level
+  - Decrease the likelihood of a significant and irreversible negative outcome from climate damage to an extremely low level
   
 ## Goal: Make sure the power of superintelligence is distributed
   
 ## Goal: Sociopolitical systems that help every individual and humanity as a whole are adapted everywhere.
-  - Better version of capitalism or a brand new system
-  - Better version of democracy or a brand new system
+  - Substantially better version of capitalism or a brand new system
+  - Substantially better version of democracy or a brand new system
 
 ## Goal: Global goals are prioritized rationally.
   - Frameworks for global effort prioritizations
@@ -29,18 +29,18 @@ This is a draft with ideas that are quite raw and have too little afterthought a
     - What they are good at
     - What they can get paid for
     - What they can be doing that is good for the world in the long term
-  - Inspire people that do things that helps them and the world in the long term
+  - Inspire people to do things that help them and the world in the long term
 
 # Tier 2 - Top challenges.
 
 ## Goal: Everyone has access to diverse entertaining world-class educational options and teachers.
   - Global competition among educators and educational content providers
-  - VC-like funding model for students
+  - Funding model for students that resembles venture capital
 
 ## Goal: Everyone has access to the open Internet.
   - Decentralized Internet
 
-## Goal: International trust is tight more to person's character rathan than country of origin
+## Goal: International trust is tight more to person's character rather than country of origin
   - New passport & a new country
   - Country-level framework inspired by Burning Man
 
@@ -51,7 +51,7 @@ This is a draft with ideas that are quite raw and have too little afterthought a
 
 ## Goal: Everyone is able to move their most important data to any platform.
 
-## Goal: Everyone is able to easily manage the data about people they know (idea is based on my spreadsheets of people I know)
+## Goal: Everyone is able to easily manage the data about people they know
 
 ## Goal: Great way to give feedback to and receive feedback from friends.
 
@@ -78,6 +78,8 @@ This is a draft with ideas that are quite raw and have too little afterthought a
 ## Domain: Communication
   - Ability to send and receive an expression of gratitude at a touch of a button
   
-## Domain: Health, fitness and mindfulness
+## Domain: Health, fitness, and mindfulness
   - Game to inspire people to explore new plant foods
   - Personalized meditation based on voices of your close ones
+
+
