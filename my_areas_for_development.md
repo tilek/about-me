@@ -13,10 +13,10 @@ LEVEL 1. 🤣
 Individual:
 - Memory: losing and forgetting physical objects (passport, hearing aid, water bottle) [trying to address it by checking items before leaving a place]
 - Rational actions: delaying getting reimbursements (e.g. from health insurance)
-- Reading: reading attention, speed, and volument [for now only addressing by listening to audiobooks]
+- Reading: reading attention, speed, and volume [for now only addressing by listening to audiobooks]
 
 Communication:
-- English language: some grammar, some pronounciation, some punctuation
+- English language: some grammar, some pronunciation, some punctuation
 
 
 
@@ -24,7 +24,7 @@ LEVEL 2. 🙄
 
 
 Individual:
-- Memory: losing and forgetting some small verbal promises [trying to address it by writing down promises, checking calendar for meeting agreements in advance]
+- Memory: losing and forgetting some small verbal promises [trying to address it by writing down promises, checking my calendar for meeting agreements in advance]
 - Sense of time: losing track of time trying to address this by extensively using digital reminders and alarms]
 - Rational actions: sometimes wasting more than an hour on YouTube when I am tired [trying to address it by running and going to sleep]
 
