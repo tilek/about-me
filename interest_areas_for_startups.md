@@ -1,19 +1,21 @@
+This is a draft with quite raw and too little afterthought and censorship.
+
 # Tier 1 - Meta challenges.
 
 ## Goal: Global goals are prioritized rationally.
-  - Frameworks for global goal and effort prioritizations
+  - Frameworks for global effort prioritizations
   - Database of people's estimations
   - Dashboard of most important metrics for humanity
-  
-## Goal: Sociopolitical systems help every individual and humanity as a whole are adapted everywhere.
+
+## Goal: Sociopolitical systems that help every individual and humanity as a whole are adapted everywhere.
   - Better version of capitalism or a brand new system
-  - Better version of democracy or  abrand new system
+  - Better version of democracy or a brand new system
 
 ## Goal: Every individual acts rationally.
   For more info see: https://github.com/tilek/text/blob/master/individual_rationality
 
-## Goal: Everyone does only what they enjoy doing summing up to long term net positive for everyone.
-  - Help people find and expand their "ikigai"
+## Goal: Everyone does only what they enjoy doing summing up to long term net positive outcome for everyone.
+  - Help people find and expand their "ikigai", an intersection of:
     - What they like doing
     - What they are good at
     - What they can easily get paid for
@@ -77,16 +79,18 @@
   - Global competition among educators and educational content providers
   - VC-like funding model for students
 
-## Goal: Everyone has access to Internet.
+## Goal: Everyone has access to the open Internet.
   - Decentralized Internet
 
 
 # Tier 3 - Large challenges.
 
 ## Goal: Prioritizing Internet communication is very easy.
-  - Note: email allows for an overload of information
+  - Note: current email and chat allow for an overload of information
 
 ## Goal: Everyone is able to move their most important data to any platform.
+
+## Goal: Everyone is able to easily manage the data about people they know (idea is based on my spreadsheets of people I know)
 
 ## Goal: Everyone is able to easily follow updates by topic/event.
 
@@ -99,15 +103,28 @@
 
 # Tier 4 - Inspired by solutions rather than goals
 
-## Domain: Human Augmentation
 
-## Domain: Apps for Life
+## Domain: Other
+  - Help people fall in love with something targeted, for example:
+    - programming
+    - Chinese language
+    - China
+    - calligraphy
+    - English language
+
+## Domain: Human augmentation
+  - New mobile OS that helps separate distracting services (social networking, messaging and games) from productive services (todo list, time tracker)
+  - Ability to input information and get output hands-free, privately, in a noisy environment
 
 ## Domain: Social, political and economic frameworks
   - Country-level framework inspired by Burning Man
-  - E-country
-  - E-passport
+  - New passport
+  - New country
   
 ## Domain: Communication
   - Ability to send and receive an expression of gratitude at a touch of a button
+  - Recording family conversations at home and suggesting how to improve their relationships
   
+## Domain: Health, fitness and mindfulness
+  - Game to inspire people to explore new plant foods
+  - Personalized meditation based on voices of your close ones
