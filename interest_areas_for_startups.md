@@ -1,4 +1,4 @@
-This is a draft with quite raw and too little afterthought and censorship.
+This is a draft with ideas that are quite raw and have too little afterthought and censorship.
 
 # Tier 1 - Meta challenges.
 
