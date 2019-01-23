@@ -1,17 +1,2 @@
-DRAFT
-
 Last updated: 2017-06-07
-
-My causes for next 100 years
-
-Passionate:
-- Children's education
-- Children's health
-- Rationality
-- Sustainability of life and humanity
-- Individual Freedom & Power Distribution
-
-Logical
-- Safety from existential risks
-- Altruism
-- Biodiversity
+Moved to: https://github.com/tilek/about-me/edit/updates/my_goals_for_the_world.md
