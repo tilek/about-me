@@ -3,18 +3,18 @@ Last updated: 2017-05-07
 # Projects that inspired or keep inspiring me
 
 **Domain: Cause Prioritization, Effective Altruism, Rationality**
-  * CFAR
-  * Give Well
-  * 80000 Hours
-  * Open Philanthropy Project
-  * Good Ventures
-  * Guesstimate
+  * [CFAR](http://www.rationality.org/)
+  * [Open Philanthropy Project](https://www.openphilanthropy.org/)
+  * [Good Ventures](http://www.goodventures.org/)
+  * [Give Well](https://www.givewell.org/)
+  * [80000 Hours](https://80000hours.org/)
+  * [Guesstimate](https://www.getguesstimate.com/)
   
 **Domain: Existential Risk & AI Safety**
-  * Open AI
-  * Future of Humanity Institute 
-  * Future of Life Institute 
-  * Machine Intelligence Research Institute
+  * [Open AI](https://openai.com/)
+  * [Future of Humanity Institute](https://www.fhi.ox.ac.uk/)
+  * [Future of Life Institute](https://futureoflife.org/)
+  * [Machine Intelligence Research Institute](https://intelligence.org/)
 
 **Domain: Artificial Intelligence**
   * DeepMind
