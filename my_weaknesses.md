@@ -2,10 +2,9 @@ DRAFT
 * This document is a quick draft, please avoid expecting completeness and deeply-thought-out revisions.
 * I welcome you to provide feedback to improve this document.
 <br>
-<br>
-I differentiate weaknesses and areas for development this way:<br>
-1. Weaknesses: something that strikes people as lower than average in their group<br>
-2. Areas for development: areas I think are most important to improve in<br>
+I differentiate weaknesses and areas for development this way:
+1. Weaknesses: something that strikes people as lower than average in their group
+2. Areas for development: areas I think are most important to improve in
 
 This document is meant to include only #1.
 
