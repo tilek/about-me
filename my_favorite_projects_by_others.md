@@ -19,7 +19,6 @@ Last updated: 2017-05-07
 **Domain: Artificial Intelligence**
   * DeepMind
   * Google Brain
-  * TensorFlow
   * Waymo
 
 **Domain: Learning, Reference and Education**
@@ -56,3 +55,7 @@ Last updated: 2017-05-07
   * Fenix International & Ready Pay
   * SendWave
   * M-Pesa
+
+**Domain: Health and Fitness**
+  * Strava
+  * Woebot
