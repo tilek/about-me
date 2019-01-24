@@ -8,7 +8,7 @@ Issues I would be interested in working on full-time are marked with an asterisk
 
 **1. Humanity is extremely safe from existential risks and catastrophic AI risks.***
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Examples of organizations working on this goal:
+&nbsp;&nbsp;&nbsp;&nbsp; Examples of organizations working on this goal:
 * Future of Life Institute
 * Future of Humanity Institute
 * OpenAI
@@ -19,7 +19,7 @@ Issues I would be interested in working on full-time are marked with an asterisk
 
 **3. Earth-originated life overall has reached sustainable growth and became ever more resilient.***
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Examples of organizations working on this goal: 
+&nbsp;&nbsp;&nbsp;&nbsp; Examples of organizations working on this goal: 
 * United Nations Framework Convention on Climate Change
 * Tesla
 * Breakthrough Energy
@@ -33,7 +33,7 @@ For more info see:
 * https://github.com/tilek/text/blob/master/individual_rationality
 * https://github.com/tilek/text/blob/master/idea_drafts/tools_to_improve_life.md
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Examples of organizations working on this goal: 
+&nbsp;&nbsp;&nbsp;&nbsp; Examples of organizations working on this goal: 
 - Center for Applied Rationality (focused on individuals with likely high-impact on strong AI development)
 
 **2. Sociopolitical systems that benefit individuals and the world as a whole are winning.***
@@ -45,7 +45,7 @@ For more info see:
 * Database of people's estimations
 * Dashboard of most important metrics for humanity
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Examples of organizations working on this goal: 
+&nbsp;&nbsp;&nbsp;&nbsp; Examples of organizations working on this goal: 
 * United Nations
 * Long Now Foundation
 
@@ -61,7 +61,7 @@ For more info see:
 * Shelter
 * Family planning
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Examples of organizations working on this goal: 
+&nbsp;&nbsp;&nbsp;&nbsp; Examples of organizations working on this goal: 
 * Bill & Melinda Gates Foundation
 
 
@@ -69,16 +69,16 @@ For more info see:
 
 **1. Everyone enjoys basic freedoms and rights.**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Examples of organizations working on this goal: 
+&nbsp;&nbsp;&nbsp;&nbsp; Examples of organizations working on this goal: 
 - United Nations
 
 **2. Everyone enjoys high-quality education.***
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I would like to see more of the following:
+&nbsp;&nbsp;&nbsp;&nbsp; I would like to see more of the following:
 * Global competition among educators and educational content providers
 * Funding model for students that resembles venture capital
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Examples of organizations working on this goal: 
+&nbsp;&nbsp;&nbsp;&nbsp; Examples of organizations working on this goal: 
 * Khan Academy, Udacity, Coursera, EdX
 * YouTube channels: CrashCourse
 * Wikipedia, Quora
@@ -87,13 +87,10 @@ For more info see:
 
 **4. Rights for privacy and encryption.***
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Examples of organizations working on this goal: 
+&nbsp;&nbsp;&nbsp;&nbsp; Examples of organizations working on this goal: 
 * EFF
 
 **5. Humanity's negative impact on other conscious beings is extremely low.**
 
 6. People work only on things that fulfill them and make them happy.*
-
-
-
 
