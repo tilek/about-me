@@ -100,7 +100,8 @@ For more info see:
 **5. Humanity's negative impact on other conscious beings is extremely low.**
 
 **6. People work only on things that fulfill them and make them happy.***
-
-
-Relevant technology that will significantly affect world development:
+<br>
+<br>
+<br>
+Relevant technology that will significantly affect world development:<br>
 https://github.com/tilek/about-me/blob/updates/world_strategy/world_changing_tech.txt
