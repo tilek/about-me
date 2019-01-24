@@ -7,6 +7,10 @@ Issues I would be interested in working on full-time are marked with an asterisk
 
 **1. Humanity is extremely safe from existential risks and catastrophic AI risks.***
 
+&nbsp;&nbsp;&nbsp; Examples of risks:
+* Superintelligent AI gaining eternal power over humanity
+* Runaway greenhouse effect on Earth
+
 &nbsp;&nbsp;&nbsp; Examples of organizations working on this goal:
 * Future of Life Institute
 * Future of Humanity Institute
@@ -54,14 +58,18 @@ For more info see:
 
 **7. Humans keep growing their care for life as a whole.**
 
-**8. Every child has sustenance needs covered enough for good bodily and mental health**
-* Vaccinations
-* Basic healthy food and water
+**8. Every child gets basic health**
+* Clean water
+* Healthy food
 * Shelter
-* Family planning
+* Vaccinations
+* Loving parental care
+* High safety
 
 &nbsp;&nbsp;&nbsp; Examples of organizations working on this goal: 
 * Bill & Melinda Gates Foundation
+
+**9. Everyone has access to great basic education.**
 
 
 # Tier 3 Goals - Focusing on short-term results.
@@ -92,3 +100,7 @@ For more info see:
 **5. Humanity's negative impact on other conscious beings is extremely low.**
 
 **6. People work only on things that fulfill them and make them happy.***
+
+
+Relevant technology that will significantly affect world development:
+https://github.com/tilek/about-me/blob/updates/world_strategy/world_changing_tech.txt
