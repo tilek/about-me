@@ -15,11 +15,9 @@ Issues I would be interested in working on full-time are marked with an asterisk
 * Machine Intelligence Research Institute
 * Partnership on AI to benefit people and society
 
-**2. The power of strong artificial intelligence is widely distributed proportionally to people's intelligence and altruism.***
+**2. Power of strong AI and power in general is well distributed and gained meritocratically by the most intelligent, most rational and most altruistic people.***
 
-**3. Power is well distributed and gained meritocratically by the most intelligent, most rational and most altruistic people.***
-
-**4. Earth-originated life overall has reached sustainable growth and became ever more resilient.***
+**3. Earth-originated life overall has reached sustainable growth and became ever more resilient.***
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Examples of organizations working on this goal: 
 * United Nations Framework Convention on Climate Change
