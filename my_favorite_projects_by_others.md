@@ -1,4 +1,5 @@
 DRAFT
+Last updated: 2017-05-07
 
 Projects that inspired or keep inspiring me
 
@@ -17,7 +18,8 @@ Domain: Existential Risk
   - Machine Intelligence Research Institute
 
 Domain: Artificial Intelligence
-  - Deep Mind
+  - DeepMind
+  - Google Brain
   - Tensor Flow
 
 Domain: Learning & Reference
@@ -37,7 +39,6 @@ Domain: Learning & Reference
     - Minute Physics
     - TED-Ed
     - xkcd
-    - Last Week Tonight with John Oliver
   - Hardware
     - One Laptop Per Child
     - [One Tablet Per Child experiment for literacy in Ethiopia](https://www.technologyreview.com/s/506466/given-tablets-but-no-teachers-ethiopian-children-teach-themselves/)
