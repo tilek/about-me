@@ -13,3 +13,5 @@ Welcome! Here you can find:
 Some other topics that interest me are:
 
 Addictions, animal rights, biases, Burning Man, climate change, Communist Manifesto, edutainment, effective altruism, extending lifetime of our universe, mission statement for humanity, moral mathematics, North Korea, power distribution, quantum computing, rationality, Somalia, Somaliland, socialism, superintelligence, technological singularity, theoretical physics, universe as a simulation, utopia.
+
+![Alt](https://static1.squarespace.com/static/5308fc55e4b04fc9b236bcc2/t/5a6cd88ce4966b35d9e5fbf2/1517082769574/barcamp_2012_logos_long.jpeg?format=2500w "A photo where Tilek Mamutov is looking good! :)")
