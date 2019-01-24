@@ -39,6 +39,7 @@ Domain: Learning & Reference
     - Minute Physics
     - TED-Ed
     - xkcd
+    - Last Week Tonight with John Oliver (earlier seasons)
   - Hardware
     - One Laptop Per Child
     - [One Tablet Per Child experiment for literacy in Ethiopia](https://www.technologyreview.com/s/506466/given-tablets-but-no-teachers-ethiopian-children-teach-themselves/)
