@@ -1,5 +1,4 @@
-DRAFT
-Everything below is my humble opinion.
+Last updated: 2019-01-23.
 
 Issues I would be interested in working on full-time are marked with an asterisk*.
 
