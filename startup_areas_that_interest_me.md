@@ -56,4 +56,3 @@ Examples:
 
 ## Domain: Health, fitness, and mindfulness
 * Game to inspire people to explore new plant foods
-* Personalized meditation based on voices of your close ones
