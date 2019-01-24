@@ -1,4 +1,4 @@
-This is a draft with ideas that are quite raw, with little afterthought and censorship.
+This is a draft with thoughts that are quite raw, with little afterthought and censorship.
 These areas were phrased as goals.
 <br>
 <br>
