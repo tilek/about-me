@@ -1,92 +1,88 @@
 DRAFT
 Everything below is my humble opinion.
 
-======================================================================================================================================
-Tier 1 Goals:
-======================================================================================================================================
+* - issues I could be interested working full-time on.
 
-1. Life and conscious life is sustainable and protected from existential risks
-- Climate change is reversed, and climate becomes sustainably stable
-- Existential risks (e.g. AI safety, nuclear weapons) are properly and rationally dealt with
 
-Organizations working on this goal: 
-- Climate Change: United Nations Framework Convention on Climate Change, Tesla
-- Existential risks: Future of Humanity Institute, Future of Life Institute
-- AI safety risk: Open AI, Machine Intelligence Research Institute, Partnership on AI to benefit people and society
+# Tier 1 Goals - Urgent
 
-2. Economic and political systems that help every individual and humanity as a whole are adapted everywhere.
-- Capitalism and democracy in most countries could be significantly improved.
-- Social democracy in Sweden and Norway are good use cases to study.
-- Smartest and most altruistic people are more powerful than others.
+1. Humanity is extremely safe from existential risks and catastrophic AI risks.*
 
-- Countries act rationally prioritizing long-term goals for themselves.
-  Current democracies often time resort to solutions that are irrational for the long-term.
-  
-Organizations working on this goal: 
-- ?
+Examples of organizations working on this goal:
+* Future of Life Institute
+* Future of Humanity Institute
+* OpenAI
+* Machine Intelligence Research Institute
+* Partnership on AI to benefit people and society
 
-3. Power is well distributed and gained meritocratically by most intelligent, most rational and most altruistic people
-- Currently a lot of power is gained based on inheritance, luck (natural resources in your country) or unethical actions. 
-- Systems should should make it easy for altruistic people from the global bottom to become smarter, more energetic and rise to the world's most powerful positions.
-  Current systems often have wealthy corrupt families and groups of families in charge.
-  Children born poor often have poor health, parenting, and schooling.
-  
-4. Global goals are prioritized rationally.
-- Existential risks, long-term benefits and risks need to be prioritized rationally
-- Countries and individuals cooperate altruistically and successfully to set and achieve global goals
+2. The power of strong artificial intelligence is widely distributed proportionally to people's intelligence and altruism.*
 
-Organizations working on this goal: 
-- United Nations
+3. Earth-originated life overall has reached sustainable growth and became ever more resilient.*
 
-5. Every individual think and acts rationally.
+Examples of organizations working on this goal: 
+* United Nations Framework Convention on Climate Change
+* Tesla
+* Breakthrough Energy
+
+
+# Tier 2 Goals - Improving systems
+
+
+1. Individuals think and act highly rationally.
 For more info see: https://github.com/tilek/text/blob/master/individual_rationality
 
-Organizations working on this goal: 
-- Center for Applied Rationality
+Examples of organizations working on this goal: 
+- Center for Applied Rationality (focused on individuals with likely high-impact on strong AI development)
 
-6. Every individual enjoys helping others
-- [Golden rule] Individuals impact other people and animals as they would like those to impact them in the same position
+2. Humans keep growing their care for current and future humans.
 
-7. Every child has sustenance needs covered enough for good bodily and mental health
+3. Humans keep growing their care for current and future consious beings other than humans.
+
+4. Humans keep growing their care for life as a whole.
+
+5. Sociopolitical systems that benefit individuals and world as a whole are winning.
+
+6. Countries act rationally prioritizing long-term goals for themselves and humanity as a whole.
+
+7. Power is well distributed and gained meritocratically by most intelligent, most rational and most altruistic people.
+  
+8. Global goals are prioritized rationally with care for the long-term.
+* Frameworks for global effort prioritizations
+* Database of people's estimations
+* Dashboard of most important metrics for humanity
+
+Examples of organizations working on this goal: 
+- United Nations
+
+9. Every child has sustenance needs covered enough for good bodily and mental health:
 - Vaccinations
 - Basic healthy food and water
 - Shelter
-- Birth control
+- Family planning
 
-Organizations working on this goal: 
+Examples of organizations working on this goal: 
 - Bill & Melinda Gates Foundation
 
-8. Earth biodiversity is higher and most resilient than ever before.
 
-======================================================================================================================================
-Tier 2 Goals:
-======================================================================================================================================
+# Tier 3 Goals - Focusing on short-term results.
 
-7. Basic freedom (expression, vote,...) and social equality
-- Information is not censored (e.g. North Korea)
-- Freedom of mobility
-- Every human has an equal vote
-  Potential exception: when education on voting is easily accessible and free, voting is easy, and voters required to pass simple exam
-- Fair trials (e.g. racially unbiased)
-- Equal rights for men and women
+1. Everyone enjoys basic freedoms and rights.
 
-8. Everyone has access to diverse entertaining options for world-class education and teachers.
+Examples of organizations working on this goal: 
+- United Nations
 
-Organizations working on this goal: 
+2. Everyone has access to high-quality education.
+
+Examples of organizations working on this goal: 
 - Khan Academy, Udacity, Coursera, EdX
 - YouTube channels: CrashCourse
 - Wikipedia, Quora
 
-9. Affordable access to information
+3. Affordable access to information.
 
-Organizations working on this goal: 
-- Alphabet, Facebook
+4. Rights for privacy and encryption.
 
-10. Rights for privacy, encryption
-
-Organizations working on this goal: 
+Examples of organizations working on this goal: 
 - EFF
 
-11. Welfare of other conscious beings
-- Right now animals are often treated as having zero moral importance
-- Artificial intelligence and bioengineering will give rise to new type of conscious beings
+5. Humanity's negative impact on other conscious beings is extremely low.
