@@ -3,7 +3,6 @@ DRAFT
 * I welcome you to provide feedback to improve this document.
 <br>
 <br>
-<br>
 I differentiate weaknesses and areas for development this way:
 
 1. Weaknesses: something that strikes people as lower than average in their group
