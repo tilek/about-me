@@ -1,3 +1,5 @@
+This is a draft document meant to better help understand what I enjoy.
+
 # Pleasure types
 
 1. Instinctual / Low Level
