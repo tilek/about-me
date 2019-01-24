@@ -1,7 +1,7 @@
 DRAFT
 Everything below is my humble opinion.
 
-* - issues I would be interested working on full-time.
+Issues I would be interested working on full-time are marked with an asterisk.*
 
 
 # Tier 1 Goals - Urgent
