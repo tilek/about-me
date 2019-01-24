@@ -1,27 +1,27 @@
 DRAFT
 Everything below is my humble opinion.
 
-Issues I would be interested working on full-time are marked with an asterisk.*
+Issues I would be interested in working on full-time are marked with an asterisk*.
 
 
 # Tier 1 Goals - Urgent
 
-1. Humanity is extremely safe from existential risks and catastrophic AI risks.*
+**1. Humanity is extremely safe from existential risks and catastrophic AI risks.***
 
-&nbsp;&nbsp; Examples of organizations working on this goal:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Examples of organizations working on this goal:
 * Future of Life Institute
 * Future of Humanity Institute
 * OpenAI
 * Machine Intelligence Research Institute
 * Partnership on AI to benefit people and society
 
-2. The power of strong artificial intelligence is widely distributed proportionally to people's intelligence and altruism.*
+**2. The power of strong artificial intelligence is widely distributed proportionally to people's intelligence and altruism.***
 
-3. Power is well distributed and gained meritocratically by the most intelligent, most rational and most altruistic people.*
+**3. Power is well distributed and gained meritocratically by the most intelligent, most rational and most altruistic people.***
 
-4. Earth-originated life overall has reached sustainable growth and became ever more resilient.*
+**4. Earth-originated life overall has reached sustainable growth and became ever more resilient.***
 
-&nbsp;&nbsp; Examples of organizations working on this goal: 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Examples of organizations working on this goal: 
 * United Nations Framework Convention on Climate Change
 * Tesla
 * Breakthrough Energy
@@ -30,68 +30,72 @@ Issues I would be interested working on full-time are marked with an asterisk.*
 # Tier 2 Goals - Improving systems
 
 
-1. Individuals think and act highly rationally.*
+**1. Individuals think and act highly rationally.***
 For more info see: 
 * https://github.com/tilek/text/blob/master/individual_rationality
 * https://github.com/tilek/text/blob/master/idea_drafts/tools_to_improve_life.md
 
-&nbsp;&nbsp; Examples of organizations working on this goal: 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Examples of organizations working on this goal: 
 - Center for Applied Rationality (focused on individuals with likely high-impact on strong AI development)
 
-2. Sociopolitical systems that benefit individuals and world as a whole are winning.*
+**2. Sociopolitical systems that benefit individuals and the world as a whole are winning.***
 
-3. Countries act rationally prioritizing long-term goals for themselves and humanity as a whole.*
+**3. Countries act rationally prioritizing long-term goals for themselves and humanity as a whole.***
   
-4. Global goals are prioritized rationally with care for the long-term.*
+**4. Global goals are prioritized rationally with care for the long-term.***
 * Frameworks for global effort prioritizations
 * Database of people's estimations
 * Dashboard of most important metrics for humanity
 
-&nbsp;&nbsp; Examples of organizations working on this goal: 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Examples of organizations working on this goal: 
 * United Nations
 * Long Now Foundation
 
-5. Humans keep growing their care for current and future humans.
+**5. Humans keep growing their care for current and future humans.**
 
-6. Humans keep growing their care for current and future consious beings other than humans.
+**6. Humans keep growing their care for current and future conscious beings other than humans.**
 
-7. Humans keep growing their care for life as a whole.
+**7. Humans keep growing their care for life as a whole.**
 
-8. Every child has sustenance needs covered enough for good bodily and mental health:
+**8. Every child has sustenance needs covered enough for good bodily and mental health**
 * Vaccinations
 * Basic healthy food and water
 * Shelter
 * Family planning
 
-&nbsp;&nbsp; Examples of organizations working on this goal: 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Examples of organizations working on this goal: 
 * Bill & Melinda Gates Foundation
 
 
 # Tier 3 Goals - Focusing on short-term results.
 
-1. Everyone enjoys basic freedoms and rights.
+**1. Everyone enjoys basic freedoms and rights.**
 
-&nbsp;&nbsp; Examples of organizations working on this goal: 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Examples of organizations working on this goal: 
 - United Nations
 
-2. Everyone enjoys high-quality education.*
+**2. Everyone enjoys high-quality education.***
 
-&nbsp;&nbsp; I would like to see more of the following:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I would like to see more of the following:
 * Global competition among educators and educational content providers
 * Funding model for students that resembles venture capital
 
-&nbsp;&nbsp; Examples of organizations working on this goal: 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Examples of organizations working on this goal: 
 * Khan Academy, Udacity, Coursera, EdX
 * YouTube channels: CrashCourse
 * Wikipedia, Quora
 
-3. Affordable access to information.*
+**3. Affordable access to information.***
 
-4. Rights for privacy and encryption.
+**4. Rights for privacy and encryption.***
 
-&nbsp;&nbsp; Examples of organizations working on this goal: 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Examples of organizations working on this goal: 
 * EFF
 
-5. Humanity's negative impact on other conscious beings is extremely low.
+**5. Humanity's negative impact on other conscious beings is extremely low.**
 
 6. People work only on things that fulfill them and make them happy.*
+
+
+
+
