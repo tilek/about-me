@@ -1,7 +1,6 @@
-DRAFT
 Last updated: 2017-05-07
 
-Projects that inspired or keep inspiring me
+# Projects that inspired or keep inspiring me
 
 **Domain: Cause Prioritization, Effective Altruism, Rationality**
   * CFAR
