@@ -91,4 +91,4 @@ For more info see:
 
 **5. Humanity's negative impact on other conscious beings is extremely low.**
 
-6. People work only on things that fulfill them and make them happy.*
+**6. People work only on things that fulfill them and make them happy.***
