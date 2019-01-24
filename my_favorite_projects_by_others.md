@@ -1,4 +1,4 @@
-Last updated: 2017-05-07
+Last updated: 2019-01-23
 
 # Projects that inspired or keep inspiring me
 
@@ -35,6 +35,7 @@ Last updated: 2017-05-07
     * [Less Wrong](https://www.lesswrong.com/)
     * [Stack Overflow](https://stackoverflow.com/)
     * [Lambda School](https://lambdaschool.com/)
+    * [Gülen movement schools](https://en.wikipedia.org/wiki/G%C3%BClen_movement_schools)
   * Entertaining
     * [Curiosity](https://curiosity.com/)
     * [Crash Course](https://www.youtube.com/user/crashcourse)
