@@ -16,8 +16,10 @@ Issues I would be interested in working on full-time are marked with an asterisk
 * Future of Humanity Institute
 * OpenAI
 * Machine Intelligence Research Institute
+* Association for the Advancement of Artificial Intelligence
 * Partnership on AI to benefit people and society
-
+<br>
+<br>
 **2. Power of strong AI and power in general is well distributed and gained meritocratically by the most intelligent, most rational and most altruistic people.***
 
 **3. Earth-originated life overall has reached sustainable growth and became ever more resilient.***
@@ -26,8 +28,8 @@ Issues I would be interested in working on full-time are marked with an asterisk
 * United Nations Framework Convention on Climate Change
 * Tesla
 * Breakthrough Energy
-
-
+<br>
+<br>
 # Tier 2 Goals - Improving systems
 
 
@@ -70,8 +72,8 @@ For more info see:
 * Bill & Melinda Gates Foundation
 
 **9. Everyone has access to great basic education.**
-
-
+<br>
+<br>
 # Tier 3 Goals - Focusing on short-term results.
 
 **1. Everyone enjoys basic freedoms and rights.**
