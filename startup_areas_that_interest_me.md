@@ -11,8 +11,8 @@ https://github.com/tilek/about-me/blob/updates/my_goals_for_the_world.md
 # Tier 2. Startups that could rewrite human history.
 
 ## Goal: International trust is more rational and less focused on simply the country of origin
-  - New passport & a new country
-  - Country-level framework inspired by Burning Man
+  - New passport + new country
+  - Country-level framework inspired by Burning Man (freedom, self-expression)
 <br>
 <br>
 # Tier 3. Mission-based startups that could become a multi-billion dollar company.
