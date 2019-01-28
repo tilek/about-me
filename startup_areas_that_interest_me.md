@@ -2,10 +2,12 @@ This is a draft with thoughts that are quite raw, with little afterthought and c
 These areas were phrased as goals.
 <br>
 <br>
+
 # Tier 1. Startups with a highly important mission for humanity.
 
 Please see goals I marked in this document:
 https://github.com/tilek/about-me/blob/updates/my_goals_for_the_world.md
+<br>
 <br>
 <br>
 
@@ -37,8 +39,6 @@ https://github.com/tilek/about-me/blob/updates/my_goals_for_the_world.md
 ## Goal: Hardware and software that help people focus on what matters most.
 Examples:
 * New mobile OS that helps separate distracting services (like messaging) from productive services (like todo lists)
-<br>
-<br>
 
 ## Goal: AI helps people improve communication within families and friendships
 * Recording family conversations at home and suggesting how to improve their relationships
