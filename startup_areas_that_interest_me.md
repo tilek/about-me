@@ -8,6 +8,7 @@ Please see goals I marked in this document:
 https://github.com/tilek/about-me/blob/updates/my_goals_for_the_world.md
 <br>
 <br>
+
 # Tier 2. Startups that could rewrite human history.
 
 ## Goal: International trust is more rational and less focused on simply the country of origin
@@ -15,6 +16,7 @@ https://github.com/tilek/about-me/blob/updates/my_goals_for_the_world.md
   - Country-level framework inspired by Burning Man (freedom, self-expression)
 <br>
 <br>
+
 # Tier 3. Mission-based startups that could become a multi-billion dollar company.
 
 ## Goal: Prioritizing Internet communication is very easy.
@@ -43,16 +45,17 @@ Examples:
 <br>
 <br>
 
-# Tier 5 - Startups inspired by solutions rather than a mission.
+# Tier 4 - Startups inspired by solutions rather than a mission.
 
 ## Domain: Human augmentation
 * Ability to input information and get output hands-free, privately, in a noisy environment
 <br>
 <br>
-# Tier 6 - Tiny ideas
+
+# Tier 5 - Tiny ideas
 
 ## Domain: Communication
 * Ability to send and receive an expression of gratitude at a touch of a button
 
 ## Domain: Health, fitness, and mindfulness
-* Game to inspire people to explore new plant foods
+* Game to inspire people to try new edible plants to promote healthy, diverse and vegan diet as well as a love of nature
