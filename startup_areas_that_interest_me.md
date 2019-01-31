@@ -5,8 +5,7 @@ These areas were phrased as goals.
 
 # Tier 1. Startups with a highly important mission for humanity.
 
-Please see goals I marked in this document:
-https://github.com/tilek/about-me/blob/updates/my_goals_for_the_world.md
+Please see goals I marked in this document: [How I would like the world to improve](https://github.com/tilek/about-me/blob/updates/world_strategy/how_i_would_like_the_world_to_improve.md)
 <br>
 <br>
 <br>
