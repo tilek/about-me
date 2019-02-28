@@ -5,7 +5,7 @@ and meant to understand what qualities to focus my personal development on.
 Level 1. There are only a few people I would exchange my level of skills with
 
 Individual - more unique:
- * Thinking: Breaking down a complex concept into logical parts and categories ([examples](https://github.com/tilek/about-me/blob/updates/categorization_examples.md))
+ * Thinking: Identifying structure in complex concepts ([examples](https://github.com/tilek/about-me/blob/updates/categorization_examples.md))
  * Thinking: Thinking and learning about big topics (cosmology, consciousness, moral philosophy)
  * Thinking: Self-reflection (frequently analyzing my own mental processes)
  * Actions: Minimalism (e.g. owning few physical things)
@@ -14,6 +14,7 @@ Individual - more unique:
  * Highly optimistic about humanity's abilities and the abilities of individuals
  * High tolerance towards societal pressure to be more average
  * Tracking and organizing data about my own life (e.g. strengths, weaknesses, microbiome, blood analysis)
+ * Openness to higher-risk self-improvement
 
 Individual - common to tech entrepreneurs:
  * Highly optimistic about other people's abilities
