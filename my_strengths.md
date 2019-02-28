@@ -2,7 +2,7 @@ This list of strengths is a highly subjective brainstorming list based largely o
 and meant to understand what qualities to focus my personal development on.
 
 
-Level 1. There are few people I would exchange my level of skills with
+Level 1. There are only a few people I would exchange my level of skills with
 
 Individual - more unique:
  * Thinking: Breaking down a complex concept into logical parts and categories ([examples](https://github.com/tilek/about-me/blob/updates/categorization_examples.md))
