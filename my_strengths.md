@@ -5,14 +5,17 @@ and meant to understand what qualities to focus my personal development on.
 Level 1. There are few people I would exchange my level of skills with
 
 Individual - more unique:
- * Highly optimistic about humanity's abilities
  * Thinking: Breaking down a complex concept into logical parts and categories ([examples](https://github.com/tilek/about-me/blob/updates/categorization_examples.md))
  * Thinking: Life strategy
- * Thinking: Thinking and learning about big topics (cosmology, quantum mechanics, consciousness, moral philosophy)
+ * Thinking: Thinking and learning about big topics (cosmology, consciousness, moral philosophy)
+ * Thinking: Self-reflection (frequently analyzing my own mental processes)
  * Actions: Minimalistic (e.g. living in Zurich, owning few physical things)
  * Actions: Tidiness
- * Actions: Digital tidiness
- 
+ * Actions: Digital tidiness / organization
+ * Highly optimistic about humanity's abilities
+ * Online social presence
+ * High tolerance towards societal pressure to be more average
+
 Individual - common to tech entrepreneurs:
  * Highly optimistic about other people's abilities
  * Highly optimistic about my own abilities
@@ -57,7 +60,7 @@ Individual:
  * Google Spreadsheets / Excel
  * Gaming: Poker
  * Gaming: Foosball
- * VJing
+ * VJing 
 
 Social:
  * Tech sales pitches
