@@ -11,7 +11,7 @@ Individual - more unique:
  * Actions: Minimalism (e.g. owning few physical things)
  * Actions: Tidiness
  * Actions: Digital tidiness / organization
- * Highly optimistic about humanity's abilities
+ * Highly optimistic about humanity's abilities and the abilities of individuals
  * Online social presence
  * High tolerance towards societal pressure to be more average
  * Tracking and organizing data about my own life
