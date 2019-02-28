@@ -14,7 +14,7 @@ Individual - more unique:
  * Highly optimistic about humanity's abilities and the abilities of individuals
  * Online social presence
  * High tolerance towards societal pressure to be more average
- * Tracking and organizing data about my own life
+ * Tracking and organizing data about my own life (e.g. strengths, weaknesses, microbiome, blood analysis)
 
 Individual - common to tech entrepreneurs:
  * Highly optimistic about other people's abilities
