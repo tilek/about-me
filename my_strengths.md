@@ -9,7 +9,7 @@ Individual - more unique:
  * Thinking: Life strategy
  * Thinking: Thinking and learning about big topics (cosmology, consciousness, moral philosophy)
  * Thinking: Self-reflection (frequently analyzing my own mental processes)
- * Actions: Minimalistic (e.g. living in Zurich, owning few physical things)
+ * Actions: Minimalism (e.g. owning few physical things)
  * Actions: Tidiness
  * Actions: Digital tidiness / organization
  * Highly optimistic about humanity's abilities
