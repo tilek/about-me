@@ -35,7 +35,7 @@ Individual:
 
 * Memory: losing and forgetting some verbal promises of medium significance [trying to address it by writing down promises, checking my calendar for meeting agreements in advance]
 * Sense of time: losing track of time trying to address this by extensively using digital reminders and alarms]
-* Rational actions: sometimes wasting more than an hour on YouTube when I am tired [trying to address it by running and going to sleep]
+* Rational actions: sometimes spending more than an hour on YouTube when I am tired [trying to address it by running and going to sleep]
 <br>
 <br>
 Social:
