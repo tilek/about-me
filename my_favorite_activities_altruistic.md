@@ -45,6 +45,7 @@ Activities I enjoy that could be altruistic
   
 - Organizing physical objects
 - Photoshopping my friends' faces into things for fun
+- Producing useful online content: Twitter, Telegram, Facebook, YouTube, podcasts
 
 # 2. Social
 
@@ -87,7 +88,6 @@ Activities I enjoy that could be altruistic
   Examples:
   - Loon M2M ideas
   - UNICEF & [x] collaboration topics
-- Producing useful online content
 - Meeting new people who I find interesting
 
 # 3. Misc notes
