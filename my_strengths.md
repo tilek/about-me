@@ -12,7 +12,6 @@ Individual - more unique:
  * Actions: Tidiness
  * Actions: Digital tidiness / organization
  * Highly optimistic about humanity's abilities and the abilities of individuals
- * Online social presence
  * High tolerance towards societal pressure to be more average
  * Tracking and organizing data about my own life (e.g. strengths, weaknesses, microbiome, blood analysis)
 
@@ -70,3 +69,4 @@ Social:
  * Building a personal brand in social media
  * Public speaking skills
  * Navigating a large organization
+ * Online social presence
