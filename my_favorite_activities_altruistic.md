@@ -87,6 +87,7 @@ Activities I enjoy that could be altruistic
   Examples:
   - Loon M2M ideas
   - UNICEF & [x] collaboration topics
+- Producing useful online content
 - Meeting new people who I find interesting
 
 # 3. Misc notes
