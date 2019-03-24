@@ -24,7 +24,7 @@ Individual:
 <br>
 <br>
 Social:
-- English language: some grammar, some pronunciation, some punctuation
+* English language: some grammar, some pronunciation, some punctuation
 <br>
 <br>
 <br>
