@@ -106,5 +106,5 @@ For more info see:
 <br>
 <br>
 <br>
-Relevant technology that will significantly affect world development:<br>
+Relevant technology that I think will significantly affect human civilization:<br>
 https://github.com/tilek/about-me/blob/updates/world_strategy/world_changing_tech.txt
