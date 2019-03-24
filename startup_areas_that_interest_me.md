@@ -12,7 +12,7 @@ Please see goals I marked in this document: [How I would like the world to impro
 
 # Tier 2. Startups that could rewrite human history.
 
-## Goal: International trust is more rational and less focused on simply the country of origin
+## Goal: Trust is more rational and less focused on the country of origin
   - New passport + new country
   - Country-level framework inspired by Burning Man (freedom, self-expression)
 <br>
