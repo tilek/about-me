@@ -4,8 +4,8 @@ DRAFT
 <br>
 I differentiate weaknesses and areas for development this way:
 
-1. Weaknesses: something that strikes people as lower than average in their group
-2. Areas for development: areas I think are most important to improve in
+* Weaknesses: something that strikes people as lower than average in their group
+* Areas for development: areas I think are most important to improve in
 
 This document is meant to include only #1.
 
