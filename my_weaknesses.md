@@ -18,10 +18,11 @@ Individual:
 * Memory: losing and forgetting physical objects (passport, hearing aid, water bottle) [trying to address it by scanning the place before leaving it]
 * Rational actions & avoidance: delaying getting reimbursements (e.g. from health insurance) [trying to address by asking other people to help]
 <br>
-<br>
 Social:
 
-* English language: some grammar, some pronunciation, some punctuation [not addressing at the moment]
+* English language: pronunciation [trying to address based on feedback from people close to me]
+* English language: grammar  [not addressing at the moment]
+* English language: punctuation [not addressing at the moment]
 <br>
 <br>
 <br>
@@ -32,7 +33,6 @@ Individual:
 
 * Memory: forgetting some verbal promises of medium significance [trying to address it by writing down promises, checking my calendar for meeting agreements in advance]
 * Sense of time: losing track of time [trying to address this by extensively using digital reminders and alarms]
-<br>
 <br>
 Social:
 
