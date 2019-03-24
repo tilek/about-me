@@ -8,9 +8,6 @@ I differentiate weaknesses and areas for development this way:
 
 * Weaknesses: something that strikes people as lower than average in their group
 * Areas for development: areas I think are most important to improve in
-
-<br>
-<br>
 <br>
 LEVEL 1. More severe weaknesses. 🤣
 <br>
@@ -23,6 +20,7 @@ Individual:
 <br>
 <br>
 Social:
+
 * English language: some grammar, some pronunciation, some punctuation [not addressing at the moment]
 <br>
 <br>
