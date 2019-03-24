@@ -75,7 +75,7 @@ For more info see:
 **9. Everyone has access to great basic education.**
 <br>
 <br>
-# Tier 3 Goals - Focusing on short-term results.
+# Tier 3 Goals - Focusing on the short term.
 
 **1. Everyone enjoys basic freedoms and rights.**
 
