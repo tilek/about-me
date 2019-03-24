@@ -25,7 +25,6 @@ Social:
 * English language: punctuation [not addressing at the moment]
 <br>
 <br>
-<br>
 LEVEL 2. Less severe weaknesses. 🙄
 <br>
 <br>
