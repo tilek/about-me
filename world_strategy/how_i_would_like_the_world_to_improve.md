@@ -21,7 +21,7 @@ Issues I would be interested in working on full-time are marked with an asterisk
 
 **2. Power of strong AI and power in general is well distributed and gained meritocratically by the most intelligent, most rational and most altruistic people.***
 
-I am unaware of organizations working on this goal.
+&nbsp;&nbsp;&nbsp; (I am unaware of organizations working on this goal.)
 
 **3. Earth-originated life has reached sustainable growth and became ever more resilient.***
 
