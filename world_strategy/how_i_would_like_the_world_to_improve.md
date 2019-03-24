@@ -12,16 +12,18 @@ Issues I would be interested in working on full-time are marked with an asterisk
 * Runaway greenhouse effect on Earth
 
 &nbsp;&nbsp;&nbsp; Examples of organizations working on this goal:
+* OpenAI
 * Future of Life Institute
 * Future of Humanity Institute
-* OpenAI
 * Machine Intelligence Research Institute
 * Association for the Advancement of Artificial Intelligence
 * Partnership on AI to benefit people and society
 
 **2. Power of strong AI and power in general is well distributed and gained meritocratically by the most intelligent, most rational and most altruistic people.***
 
-**3. Earth-originated life overall has reached sustainable growth and became ever more resilient.***
+I am unaware of organizations working on this goal.
+
+**3. Earth-originated life has reached sustainable growth and became ever more resilient.***
 
 &nbsp;&nbsp;&nbsp; Examples of organizations working on this goal: 
 * United Nations Framework Convention on Climate Change
@@ -29,7 +31,7 @@ Issues I would be interested in working on full-time are marked with an asterisk
 * Breakthrough Energy
 
 
-# Tier 2 Goals - Improving systems
+# Tier 2 Goals - Investing in the long-term
 
 
 **1. Individuals think and act highly rationally.***
