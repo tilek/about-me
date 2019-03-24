@@ -1,7 +1,6 @@
 # about-me
 
 Welcome! Here you can find:
-* [My story](https://github.com/tilek/about-me/blob/updates/my_story.md)
 * [Startup areas that interest me](https://github.com/tilek/about-me/blob/updates/startup_areas_that_interest_me.md)
 * [How I would like the world to improve](https://github.com/tilek/about-me/blob/updates/world_strategy/how_i_would_like_the_world_to_improve.md)
 * [Projects that inspired me](https://github.com/tilek/about-me/blob/updates/my_favorite_projects_by_others.md)
