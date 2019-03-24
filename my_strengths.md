@@ -6,11 +6,12 @@ Level 1. There are only a few people I would exchange my level of skills with
 
 Individual - more unique:
  * Thinking: Identifying structure in complex concepts ([examples](https://github.com/tilek/about-me/blob/updates/categorization_examples.md))
- * Thinking: Thinking and learning about big topics (cosmology, consciousness, moral philosophy)
- * Thinking: Self-reflection (frequently analyzing my own mental processes)
- * Actions: Minimalism (e.g. owning few physical things)
- * Actions: Tidiness
- * Actions: Digital tidiness / organization
+ * Thinking: Analyzing very high-level subjects (e.g. cosmology, consciousness, moral philosophy)
+ * Thinking: Self-reflection (I am frequently analyzing my own mental processes)
+ * Priorities: Minimalism (e.g. owning few physical things)
+ * Priorities: Tidiness
+ * Priorities: Digital orderliness
+ * Priorities: Digital tidiness
  * Highly optimistic about humanity's abilities and the abilities of individuals
  * High tolerance towards societal pressure to be more average
  * Tracking and organizing data about my own life (e.g. strengths, weaknesses, microbiome, blood analysis)
@@ -25,13 +26,13 @@ Individual - common to tech entrepreneurs:
  * Ideas & entrepreneurship: Identifying opportunities
  * Ideas & entrepreneurship: Positive and creative during challenging times (e.g. getting better roles after reorgs at Google)
  * Actions: Rational actions & will power (e.g. veganism, blood analysis, diet)
- * Technology: Technology business strategy [to clarify]
+ * Technology: Strategy for technology businesses
 
 Social - more unique:
  * Radical transparency
  * Being a hub between Kyrgyzstan/Central Asia and Google/Silicon Valley
  * Understanding of how to do business in emerging markets
- * GIF animations
+ * Using GIF animations in communication
  
 Social - common to tech entrepreneurs:
  * Deeply caring about the maximum positive long-term impact on the world
@@ -50,16 +51,16 @@ Social - common to tech entrepreneurs:
 
 
 Level 2. I could easily name people who were better than me at this at Google or among my friends, 
-but these made me stand out along the way in the groups I was a part of
+but these strengths made me stand out in some groups I was a part during the course of my career.
 
 Individual:
- * Curious
- * Able to quickly hack things together
+ * Curiosity
+ * Programming: overall
+ * Programming: Able to quickly hack things together
  * BigQuery/SQL
- * Programming
  * Google Spreadsheets / Excel
- * Gaming: Poker
- * Gaming: Foosball
+ * Games: Poker
+ * Games: Foosball
  * VJing 
 
 Social:
