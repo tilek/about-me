@@ -1,52 +1,98 @@
 Status: DRAFT
 
+
 Level 1
 
 Rationality
-- Public personalities who I believe have a similar value: Elon Musk, Nick Bostrom.
+- Related public personalities: Eliazar Yudkowsky, Elon Musk, Julia Galef, Nick Bostrom, Paul Graham, Richard Dawkins.
+
 Ambitiousness
 - I was not always ambitious, but now I am as ambitious as I could possibly imagine.
-- Public personalities who I believe have a similar value: Elon Musk, Nick Bostrom, Larry Page, Ray Kurzweil.
+- Related public personalities: Demis Hassabis, Elon Musk, Nick Bostrom, Larry Page, Ray Kurzweil.
+- Related cultures: Google, Silicon Valley.
+
 Altruism
 - I would like to believe that it's my value. :)
-- I like teaching and inspiring.
+- I intrinsically enjoy teaching, inspiring, mentoring.
+- I don't enjoy helping friends move furniture and when with friends I try to sneak out from washing dishes. :)
+- I try to think what's the most good I can do for people and other living beings and act accordingly.
+- I rarely donate to charity for now, but would consider donating most of my wealth in the end like Bill Gates.
 - I try to be compassionate towards animals - I am on a vegan diet.
 - I chose to travel to Somaliland and North Korea to learn about human life there.
-- I don't like people who don't enjoy helping other people or hurt other people.
-- Public personalities who I believe have a similar value: 
-Freedom
-- Cultures that I believe have a similar value: nomadic people, USA, Google, Burning Man
-Friends
+- I try to avoid people who don't enjoy helping other people.
+- Related public personalities: 
+  - knowledge sharing: Brian Greene, brothers John and Hank Green, Chris Anderson, Leonard Susskind, Jimmy Wales.
+  - other: Dustin Moskowitz, Elon Musk, Jimmy Wales, Mahatma Gandhi, Muhammad Yunus
+
 
 Level 2
 
+Equal opportunity
+- Related public personalities: Carl Marx, Vladimir Lenin.
+Freedom
+- Cultures that I believe have a similar value: nomadic people, USA, Google, Burning Man.
+Friends
 Fun
+- Related public personalities: Elon Musk, Fatboy Slim, Sergey Brin.
+- Related cultures: Google, Burning Man.
 Gratefulness
 - This includes gratefulness to my parents.
 Integrity
-- I suffered emotionally after I lied and try not to repeat it again.
-- I stay away from people and cultures with low integrity.
+- Notes
+  - I suffered emotionally after I lied and try not to repeat it again.
+  - I stay away from people and cultures with low integrity.
+- Related cultures: AUCA over many other universites in Kyrgyzstan.
 Learning
 Partnership
 - I often try to partner and try to never compete.
+- Related cultures: Burning Man.
 Passion
 - Enjoy what you do
 - Love who you help
 - Following your genine curiosity
+- Related cultures: Google, Burning Man.
 Positivity
-- Cultures that I believe have a similar value: USA, Silicon Valley, Google
+- Related cultures: USA, Google, Silicon Valley.
 Self-improvement
+- Related cultures: Silicon Valley.
 Sincerity
-- Cultures that I believe have a similar value: Ireland
+- Related cultures: Ireland.
+
 
 Level 3
 
+Compassion
+- Related public personalities: Buddha.
 Courage
 Diversity
+- Related cultures: San Francisco.
 Entrepreneurship
+- Related cultures: Silicon Valley.
+- Related public personalities: Elon Musk, Larry Page, Sergey Brin.
 Fairness
 Innovation
+- Related cultures: Silicon Valley.
 Minimalism
+- Related cultures: Japan.
 Order
+- Related cultures: Japan.
+- Related public personalities: Carl Linnaeus, Dmitri Mendeleev.
 Resilience
 Transparency
+
+
+Anti-values:
+
+Competitiveness
+Discipline to do things you don't like doing
+Excess comfort
+Excess wealth
+Money
+Power
+Rule following
+
+
+Explanation:
+
+Related cultures = Cultures that seem to have a similar value.
+Related public personalities = Public personalities that seem to have a similar value.
