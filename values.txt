@@ -4,10 +4,12 @@ Status: DRAFT
 Level 1
 
 Rationality
+- Related examples from life: math lesson, CFAR community, attitude towards religion.
 - Related public personalities: Eliazar Yudkowsky, Elon Musk, Julia Galef, Nick Bostrom, Paul Graham, Richard Dawkins.
 
 Ambitiousness
 - I was not always ambitious, but now I am as ambitious as I could possibly imagine.
+- Related examples from life: Google, Google X, own project at Google X, YCombinator.
 - Related public personalities: Demis Hassabis, Elon Musk, Nick Bostrom, Larry Page, Ray Kurzweil.
 - Related cultures: Google, Silicon Valley.
 
@@ -30,32 +32,48 @@ Level 2
 Equal opportunity
 - Related public personalities: Carl Marx, Vladimir Lenin.
 Freedom
+- Related examples from life: 
+  - Parents:
+    - Freedom of choice of a career
+    - Freedom to choose extracurricular activities
+  - AUCA:
+    - Freedom to choose subjects
+    - Freedom where to sit
 - Cultures that I believe have a similar value: nomadic people, USA, Google, Burning Man.
 Friends
 Fun
+- People from my life: Kyrgyzstan friend group, San Francisco friend group, Dima Mamyrin, Dima Pritula.
 - Related public personalities: Elon Musk, Fatboy Slim, Sergey Brin.
 - Related cultures: Google, Burning Man.
 Gratefulness
 - This includes gratefulness to my parents.
+Happiness
 Integrity
 - Notes
   - I suffered emotionally after I lied and try not to repeat it again.
+    - school olympiad, early AUCA exam, AUCA CS homework, "PM", OT 140K, OT SR 200K
   - I stay away from people and cultures with low integrity.
+- People from my life: Cyrus Behroozi
 - Related cultures: AUCA over many other universites in Kyrgyzstan.
 Learning
 Partnership
 - I often try to partner and try to never compete.
+- Related examples from life: Google, Google X (Earth Engine), Outtalent (CodeSignal, interviwing.io)
 - Related cultures: Burning Man.
 Passion
 - Enjoy what you do
 - Love who you help
 - Following your genine curiosity
+- Related examples from life: Flash, Italian, teaching, foreign language songs, Central Asia @ Google, Burning Man)
 - Related cultures: Google, Burning Man.
 Positivity
 - Related cultures: USA, Google, Silicon Valley.
 Self-improvement
+- Related examples from life: diet, health tracking, sleep, exercise, mindfulness.
 - Related cultures: Silicon Valley.
 Sincerity
+- Related examples from life: ProgBlog video.
+- People from my life: Bolushbek Abdyjaparov, Tatsiana Sakhar.
 - Related cultures: Ireland.
 
 
@@ -64,12 +82,22 @@ Level 3
 Compassion
 - Related public personalities: Buddha.
 Courage
+- Related cultures: Google X.
 Diversity
 - Related cultures: San Francisco.
 Entrepreneurship
+- Related examples from life: 
+  - college: 
+    - organizing ski trips, college night club events
+    - starting Dolphinson company
+  - Google:
+    - GeoAskMe
+    - 20% Central Asia
+    - Eric Schmidt visit
 - Related cultures: Silicon Valley.
 - Related public personalities: Elon Musk, Larry Page, Sergey Brin.
 Fairness
+- People from my life: Aijan Jumukova.
 Innovation
 - Related cultures: Silicon Valley.
 Minimalism
@@ -91,6 +119,8 @@ Money
 Power
 Rule following
 
+Misc
+- Tendencies: thinking big, challenging the authority or majority or status quo
 
 Explanation:
 
