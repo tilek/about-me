@@ -9,9 +9,8 @@ Individual - more unique:
  * Thinking: Analyzing very high-level subjects (e.g. cosmology, consciousness, moral philosophy)
  * Thinking: Self-reflection (I am frequently analyzing my own mental processes)
  * Priorities: Minimalism (e.g. owning few physical things)
- * Priorities: Tidiness
+ * Priorities: Orderliness of physical belongings
  * Priorities: Digital orderliness
- * Priorities: Digital tidiness
  * Highly optimistic about humanity's abilities and the abilities of individuals
  * High tolerance towards societal pressure to be more average
  * Tracking and organizing data about my own life (e.g. strengths, weaknesses, microbiome, blood analysis)
