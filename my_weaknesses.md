@@ -43,3 +43,7 @@ Social:
 * Face-to-face conversations: struggling to tell compelling stories
 * Digital communication: sometimes emailing people asking a question and not replying or replying too late
 
+
+Misc feedback
+- 2020-04-16 Approximate feedback: "Sometimes when you don't respect someone you show it in your body language, when we were once talking while standing with a person X you decided to sit down and relax and I think it was disrespectful."
+- 2020-04-16 Approximate feedback: "You promised to do X, and I changed my plans because of that and you didn't do it. It means it's harder for me to rely on you and to trust you."
