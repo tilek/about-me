@@ -12,6 +12,7 @@ Individual - more unique:
  * Priorities: Orderliness of physical belongings
  * Priorities: Digital orderliness
  * Highly optimistic about humanity's abilities and the abilities of individuals
+ * Inspiring people
  * High tolerance towards societal pressure to be more average
  * Tracking and organizing data about my own life (e.g. strengths, weaknesses, microbiome, blood analysis)
  * Openness to higher-risk self-improvement
@@ -35,6 +36,7 @@ Social - more unique:
  
 Social - common to tech entrepreneurs:
  * Deeply caring about the maximum positive long-term impact on the world
+ * Vision for the future
  * Teaching: Explaining a complex topic in simple terms (e.g. presentations in Kyrgyzstan, Life of a Query at Google)
  * Teaching: Coming up with analogies
  * Asking questions that focus on important things
