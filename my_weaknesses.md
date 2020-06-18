@@ -19,7 +19,7 @@ Individual:
 * Rational actions & avoidance: delaying getting reimbursements (e.g. from health insurance) [trying to address by asking other people to help]
 <br>
 Social:
-
+* Collaboration: when I am unhappy with the output of work someone does for me, sometimes I forget to appreciate a lot of effort they put into
 * English language: pronunciation [trying to address based on feedback from people close to me]
 * English language: grammar  [not addressing at the moment]
 * English language: punctuation [not addressing at the moment]
