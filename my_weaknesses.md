@@ -36,11 +36,12 @@ Individual:
 Social:
 
 * Overall: struggling to balance between speaking very positively about my achievements and being too self-boasting
-* Face-to-face conversations: can be thinking deeply about something and miss when a person is trying to talk to me
-* Face-to-face conversations: unconsciously pivoting certain % of discussion topics to myself or topics that mainly interest me
-* Face-to-face conversations: interrupting other people without noticing
-* Face-to-face conversations: sometimes not noticing when people lose interest in my story
-* Face-to-face conversations: struggling to tell compelling stories
+* Face-to-face conversations > answering questions: doing a long monologue before actually answering the question and getting to the point
+* Face-to-face conversations > listening: can be thinking deeply about something and miss when a person is trying to talk to me
+* Face-to-face conversations > selfishness: unconsciously pivoting certain % of discussion topics to myself or topics that mainly interest me
+* Face-to-face conversations > selfishness: interrupting other people without noticing
+* Face-to-face conversations > storytelling: sometimes not noticing when people lose interest in my story
+* Face-to-face conversations > storytelling: struggling to tell compelling stories
 * Digital communication: sometimes emailing people asking a question and not replying or replying too late
 
 
