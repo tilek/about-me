@@ -11,4 +11,11 @@ Welcome! Here you can find:
 
 Some other topics that interest me are:
 
-Addictions, animal rights, biases, Burning Man, climate change, Communist Manifesto, edutainment, effective altruism, extending lifetime of our universe, mission statement for humanity, moral mathematics, North Korea, power distribution, quantum computing, rationality, Somalia & Somaliland, socialism, superintelligence, technological singularity, theoretical physics, universe as a simulation, utopia.
+psychology: relationships, communication, addiction, biases, rationality, personal values
+sociology: Burning Man, countries (Kyrgyzstan, North Korea, Somalia & Somaliland), Communist Manifesto, economic systems, effective altruism, moral mathematics, political systems, power distribution
+
+education: global education, entertaining education
+
+the future of humanity: AI safety, climate change, extending lifetime of our universe, mission statement for humanity, superintelligence, technological singularity, universe as a simulation, utopia
+theoretical physics: quantum computing, cosmology
+life, consciosness, animal rights
