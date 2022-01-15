@@ -15,7 +15,7 @@ Individual - more unique:
  * Inspiring people
  * High tolerance towards societal pressure to be more average
  * Tracking and organizing data about my own life (e.g. strengths, weaknesses, microbiome, blood analysis)
- * Openness to higher-risk self-improvement
+ * Self-improvement with high but calculated risks (e.g. going to North Korea, one-off consumption of chemical substances)
 
 Individual - common to tech entrepreneurs:
  * Highly optimistic about other people's abilities
