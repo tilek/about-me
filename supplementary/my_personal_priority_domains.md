@@ -24,8 +24,15 @@ Health > Secondary:
 
 Exponential > Outtalent
 - Finances
+- Team happiness
 - Fellow happiness
 - Mentor happiness
 - Processes
 - Integrity
 - Results
+
+Optimism about Kyrgyzstan
+- Independence
+- Rule of law
+- Secularism
+- Democracy
