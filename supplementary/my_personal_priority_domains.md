@@ -1,22 +1,32 @@
-DRAFT
+Health > Primary (Mood & Energy)
+- Sleep
+- Home
+- Food
+- Water
+- In-person meeting
+- Fitness: cardio
+- Nature
 
-General state
-- Health
-- Life partner
-- Social status
-- Joy
+Relationships:
+- Integrity
+- Life partner, sexual life
+- Close friends
+- Parents
+- Debt
+- Money
 
-Day to day activities
-- Friends
-- Positive global impact
-- Getting smarter
-- Hedonic pleasure
+Health > more:
+- Fitness: strong core
+- Fitness: stretching
+- Skin: body
+- Skin: face
+- Hair
 
-Seeing happening with the world
-- People
-- Impact
-
-Accomplishments bucket list
-- Payback (parents, teachers, others)
-- Impact
-- Life experience
+Exponential > Outtalent
+- Profitability
+- Fundraising
+- Fellow happiness
+- Mentor happiness
+- Processes
+- Integrity
+- Results
