@@ -15,7 +15,7 @@ Relationships:
 - Debt
 - Finances
 
-Health > more:
+Health > Secondary:
 - Fitness: strong core
 - Fitness: stretching
 - Skin: body
