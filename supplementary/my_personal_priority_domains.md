@@ -13,7 +13,7 @@ Relationships:
 - Close friends
 - Parents
 - Debt
-- Money
+- Finances
 
 Health > more:
 - Fitness: strong core
@@ -23,8 +23,7 @@ Health > more:
 - Hair
 
 Exponential > Outtalent
-- Profitability
-- Fundraising
+- Finances
 - Fellow happiness
 - Mentor happiness
 - Processes
