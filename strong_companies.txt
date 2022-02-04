@@ -1,11 +1,13 @@
-Companies that I think:
-(1) build great products and services 
+I created a list of companies that I either invested in or am considering investing in.
+
+In my opinion, these companies:
+(1) build great products and services for their customers
 (2) will likely grow a lot in the long-term
 (3) I feel aligned with in terms of their values and mission
 (4) I feel inspired by
 
 [Public] Superintelligence
-- Alphabet (Google, DeepMind, Waymo, X, and more)
+- Alphabet (Google, DeepMind, Waymo, X, and more)*
 
 [Public] Multi-Industry Tech
 - Apple
@@ -22,10 +24,12 @@ Companies that I think:
 - Nike
 
 [Likely to go public]
-- Outtalent
-- Primer
+- Outtalent*
+- Primer*
 - SpaceX
 
 [May always stay private]
 - Anthropic
 - Open AI
+
+* - companies I invested in
