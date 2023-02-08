@@ -7,15 +7,16 @@ Level 1. There are only a few people I would exchange my level of skills with
 Individual - more unique:
  * Thinking: Identifying structure in complex concepts ([examples](https://github.com/tilek/about-me/blob/updates/categorization_examples.md))
  * Thinking: Analyzing very high-level subjects (e.g. cosmology, consciousness, moral philosophy)
+ * Thinking: Big ideas
  * Thinking: Self-reflection (I am frequently analyzing my own mental processes)
  * Priorities: Minimalism (e.g. owning few physical things)
  * Priorities: Orderliness of physical belongings
  * Priorities: Digital orderliness
  * Highly optimistic about humanity's abilities and the abilities of individuals
- * Inspiring people
  * High tolerance towards societal pressure to be more average
  * Tracking and organizing data about my own life (e.g. strengths, weaknesses, microbiome, blood analysis)
  * Self-improvement with high but calculated risks (e.g. going to North Korea, one-off consumption of chemical substances)
+ * "Fun spirit"
 
 Individual - common to tech entrepreneurs:
  * Highly optimistic about other people's abilities
@@ -35,6 +36,8 @@ Social - more unique:
  * Using GIF animations in communication
  
 Social - common to tech entrepreneurs:
+ * Empathy
+ * Inspiring people
  * Deeply caring about the maximum positive long-term impact on the world
  * Vision for the future
  * Teaching: Explaining a complex topic in simple terms (e.g. presentations in Kyrgyzstan, Life of a Query at Google)
