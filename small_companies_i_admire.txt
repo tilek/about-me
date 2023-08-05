@@ -1,4 +1,4 @@
-Kyrgyzstan
+[Kyrgyzstan]
 - system
   - Ololo
   - Shoro  
@@ -12,11 +12,15 @@ Kyrgyzstan
   - No Name Bar
   - Kipish
   - Ailan Bar
-- restaurants
+- coffee shops
   - Bublik
+  - Avenue / Бисквит / Cherie Cherie
+  - Vanilla
+- restaurants
   - Torro Bar and Grill
   - Baan Baan
-  - Avenue / Бисквит / Cherie Cherie
+  - Заандукки
+  - Лесной
 
-Turkey 
+[Turkey]
 - Hafiz Mustafa baklava
