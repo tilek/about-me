@@ -2,7 +2,7 @@ I created a list of companies that I either invested in or am considering invest
 
 In my opinion, these companies:
 (1) build great products and services for their customers
-(2) will likely grow a lot in the long-term
+(2) are likely to keep growing and innovating in the long-term
 (3) I feel aligned with in terms of their values and mission
 (4) I feel inspired by
 
@@ -11,25 +11,24 @@ In my opinion, these companies:
 
 [Public] Multi-Industry Tech
 - Apple
-- Coinbase
-- Tesla
+- Tesla*
 
 [Public] Software-Focused Category Leaders
-- Airbnb
-- Peloton
-- Shopify
+- Airbnb*
 - Spotify
 
-[Public] Other Category Leaders
-- Nike
-
 [Likely to go public]
-- Outtalent*
-- Primer*
+- Outtalent**
+- Stripe*
+- OpenAI
 - SpaceX
 
-[May always stay private]
-- Anthropic
-- Open AI
+[Slow but steady companies]
+- Dyson
+- IKEA
+- Muji
+- Nike
+- Patagonia
 
-* - companies I invested in
+* - companies I invested in in a public market
+** - companies I invested in at an early-stage
