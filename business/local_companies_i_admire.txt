@@ -1,7 +1,7 @@
-[Kyrgyzstan]
+[Kyrgyzstan | I admire values & product]
 - system
   - Ololo
-  - Shoro  
+  - Shoro
 - single store
   - Sound.KG
   - Nana Sport
@@ -9,16 +9,18 @@
 - bars
   - Choco's
   - Riad
-  - No Name Bar
+  - No Name
+  - Ailan [closed]
+  - Plur [closed]
   - Kipish
-  - Ailan Bar
 - coffee shops
   - Bublik
   - Avenue / Бисквит / Cherie Cherie
   - Vanilla
 - restaurants
+  - Zen
   - Torro Bar and Grill
-  - Baan Baan
+  - Baan Baan [closed]
   - Заандукки
   - Лесной
 
