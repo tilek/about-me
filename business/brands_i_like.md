@@ -1,12 +1,38 @@
-Cars
-- Tesla**
-- Porsche*
-- Ferrari*
+Last updated: 2021-12-04
 
-Bikes
+**Cars**
+  * Tesla**
+  * Porsche*
+  * Ferrari*
+
+**Bikes**
 - Stromer
 
-Clothes
+---
+
+**Gaming consoles**
+- Sony PlayStation
+- Nintendo Wii
+
+---
+
+**Electrical Home Appliances**
+- Dyson* (UK)
+
+---
+
+**Home**
+- Muji*
+
+**Kitchen**
+- Eva Solo (Denmark)
+- Sigg waterbottles (Switzerland)
+- BODUM (Denmark-Switzerland)
+- Kuhn Rikon (Switzerland)
+
+---
+
+**Clothes**
 - Sports
   - Nike**
   - Lululemon*
@@ -31,58 +57,53 @@ Clothes
 - Women's lingerie
   - Victoria's Secret
 
-Home
-- Muji*
+---
 
-Kitchen
-- Eva Solo (Denmark)
-- Sigg waterbottles (Switzerland)
-- BODUM (Denmark-Switzerland)
-- Kuhn Rikon (Switzerland)
-
-Electrical Home Appliances
-- Dyson* (UK)
-
-Restaurant
+**Restaurant**
 - Hafiz Mustafa* (Turkey)
 - Vapiano
 
-Food
+**Food**
 - Ritter Sport (chocolate)
 - Soul & Soul (tea) - loved visually, but did not taste yet
 
-Drinks
+**Drinks**
 - Red Bull* - mainly because of marketing
 
-Grocery stores
+**Grocery stores**
 - Whole Foods*
 
-Skin care and beauty
+---
+
+**Skin care and beauty**
 - Rituals* - mainly for visual design
 - Innisfree - mainly for visual design
 - Drunk Elephant - mainly for visual design
 - Nivea - mainly for visual design
 - L'Occitane - mainly for visual design
 
-Perfume
+**Perfume**
 - Momo Paris - mainly for visual design
 
-Toys
+---
+
+**Toys**
 - Lego*
 
-Gaming consoles
-- Sony PlayStation
-- Nintendo Wii
+---
 
-Notebooks
+**Notebooks**
 - Moleskine*
 - LEUCHTTURM1917*
 
-Pens
+**Pens**
 - Uni-ball*
 
-Markers
+**Markers**
 - STAEDTLER*
 
-* - I would want my employees to spend time to check out their products
-** - one of the few most inspiring businesses for me
+---
+
+\* - I would want my employees to spend time to check out their products
+
+\** - one of the few most inspiring businesses for me
