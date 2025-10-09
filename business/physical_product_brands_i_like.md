@@ -1,12 +1,22 @@
 Last updated: 2021-12-04
 
+**Space technology**
+- SpaceX**
+
+---
+
 **Cars**
-  * Tesla**
-  * Porsche*
-  * Ferrari*
+- Tesla**
+- Porsche*
+- Ferrari*
 
 **Bikes**
 - Stromer
+
+---
+
+**Gym bikes**
+- Peloton*
 
 ---
 
