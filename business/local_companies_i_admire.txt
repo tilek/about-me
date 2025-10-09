@@ -1,28 +1,6 @@
-[Kyrgyzstan | I admire values & product]
-- system
-  - Ololo
-  - Shoro
-- single store
-  - Sound.KG
-  - Nana Sport
-  - Underground Detailing
-- bars
-  - Choco's
-  - Riad
-  - No Name
-  - Ailan [closed]
-  - Plur [closed]
-  - Kipish
-- coffee shops
-  - Bublik
-  - Avenue / Бисквит / Cherie Cherie
-  - Vanilla
-- restaurants
-  - Zen
-  - Torro Bar and Grill
-  - Baan Baan [closed]
-  - Заандукки
-  - Лесной
+[Kyrgyzstan]
+I moved companies from Kyrgyzstan to the sheet:
+https://docs.google.com/spreadsheets/d/1g-UXpHtSoHCsE2rp9TtaecewMTomkdcNvaKYKKRjNis/edit?usp=sharing
 
 [Turkey]
 - Hafiz Mustafa baklava
