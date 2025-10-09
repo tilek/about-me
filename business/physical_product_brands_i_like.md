@@ -54,7 +54,7 @@ Last updated: 2021-12-04
   - Ted Baker
   - Wrangler (jackets)
   - Gerry Weber (women's only)
-- Budget / fast fashion
+- Budget / Fast Fashion
   - Zara
   - H&M
   - Bershka
@@ -64,7 +64,7 @@ Last updated: 2021-12-04
 - Luxury / High-End Designer
   - Zegna
   - Balenciaga
-- Women's lingerie
+- Women's Lingerie
   - Victoria's Secret
 
 ---
