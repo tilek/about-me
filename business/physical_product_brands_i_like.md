@@ -1,38 +1,39 @@
 Last updated: 2021-12-04
 
 **Space technology**
-- SpaceX**
+- SpaceX** (United States)
 
 ---
 
 **Cars**
-- Tesla**
-- Porsche*
-- Ferrari*
+- Tesla** (United States)
+- Porsche* (Germany)
+- Ferrari* (Italy)
 
 **Bikes**
-- Stromer
+- Stromer (Switzerland)
 
 ---
 
 **Gym bikes**
-- Peloton*
+- Peloton* (United States)
 
 ---
 
 **Gaming consoles**
-- Sony PlayStation
-- Nintendo Wii
+- Sony PlayStation (Japan)
+- Nintendo Wii (Japan)
 
 ---
 
 **Electrical Home Appliances**
+- Philips (Netherlands)
 - Dyson* (UK)
 
 ---
 
 **Home**
-- Muji*
+- Muji* (Japan)
 
 **Kitchen**
 - Eva Solo (Denmark)
@@ -44,7 +45,7 @@ Last updated: 2021-12-04
 
 **Clothes**
 - Sports
-  - Nike**
+  - Nike** (United States)
   - Lululemon*
 - Outdoor
   - Patagonia**
