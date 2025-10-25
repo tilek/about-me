@@ -99,7 +99,7 @@ Notable friends and connections at Google during that time:
 - Olya Irzak
 - Yaroslav Azhnyuk
 
-8. Outtalent fellows (this is definitely not an exhaustive list of fellows I love or the ones I loved working with)
+8. Outtalent graduates (this is definitely not an exhaustive list of fellows I love or the ones I loved working with)
 - Alex Nahirniak
 - Aliya Rysbek
 - Alsu Bikkulova
@@ -112,6 +112,7 @@ Notable friends and connections at Google during that time:
 - Dmitry Naimark
 - Dmitry Shaposhnikov
 - Gaziza Yestemir
+- Igor Garin
 - Ihor Peresunko
 - Ilya Noskov
 - Islam Murtazaev
@@ -129,7 +130,8 @@ Notable friends and connections at Google during that time:
 - Yana Nemirovsky
 - Yoav Nemirovsky
 
-  9. Outtalent part-time mentors
+  9. Outtalent part-time mentors who are not Outtalent graduates
   - Dan Silva
   - Meder Kydyraliev
+  - Valera Nemychnikova
   - many many more!!
