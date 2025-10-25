@@ -73,5 +73,6 @@ Google friends outside of SQE:
 - Kevin Weil
 - Linda Xie
 - Maksim Stepanenko
+- Michael Seibel
 - Olya Irzak
 - Yaroslav Azhnyuk
