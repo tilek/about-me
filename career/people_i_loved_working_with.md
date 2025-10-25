@@ -1,7 +1,7 @@
-This list is meant to help me understand what is common between all people I loved working with,
-value and be grateful for my experiences and be a guide for finding further collaborators.
+This list is meant to help me understand what is common between people I loved working with,
+be grateful for many of my work experiences and be a guide for finding further collaborators.
 
-Please note, I am sure I forgot some amazing people I loved working with! 😂😅
+It is not meant to be an exhaustive list of people I enjoyed working with a lot. Such a list would be much longer!
 
 Common values & behaviors:
 - positivity, positive mindset
