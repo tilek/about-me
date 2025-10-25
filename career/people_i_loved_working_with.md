@@ -46,8 +46,9 @@ Other teams:
 - English (USA, India)
 - French, Italian, Turkish, Polish, Swedish, Finnish
 
-Google friends outside of SQE:
-- Lari Numminen, Zoltan Stekkelpak
+Notable friends and connections at Google during that time:
+- Lari Numminen
+- Zoltan Stekkelpak
 
 4. Google, New Business Development
 - Megan Smith
