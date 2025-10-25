@@ -34,9 +34,12 @@ Common skills
 - Russian team: Oxana Komanesku, Vitali Fedulov
 - German team: Manuel Holtz, Florian Stein
 - Dutch team: Reinoud Vaandrager
+- Danish team: Jonas Voss
 - Spanish team: Alvar Lopez
 - Hungarian team: Gyula Simonyi
 - Portuguese team: Ariel Lambrecht
+- Finnish team: Anu Ilomäki
+- Japanese team: Kenji Hirohata, Tomoaki Fujii
 - Infrastructure team: Jason Morrison, Damien Conlon
 
 Other teams:
@@ -44,21 +47,40 @@ Other teams:
 - French, Italian, Turkish, Polish, Swedish, Finnish
 
 Google friends outside of SQE:
-- Lari Numminen
+- Lari Numminen, Zoltan Stekkelpak
 
-4. Google, New Business Development & Emerging Markets
+4. Google, New Business Development
 - Megan Smith
-- Ishi Signh
+- Ishi Singh
 - Ahmad Hamzawi
+- Lydia Mazzie
+
+5. Google, Emerging Markets
+- Nelson Mattos
+- Yariv Adan
 - Divon Lan
 - Badar Khushnood
+- AbdelKarim Mardini
+- Emma Jackson
+- Moritz Neun
 
-5. Google X, Project Loon
+5. Project Loon
+- Sameera Ponda
+- Cyrus Behroozi
+
+Notable friends and connections at Google during that time: 
+- Anantica Singh
+- Ryan Germick
+- Jennifer Rodriguez-Mueller
+
+5. Google X in general, special team
 - Astro Teller
 - Ivo Stivoric
 - Steve Lacy
+- Georgios Evangelopoulos
+- Stef van Grieken
 
-6. Outtalent
+6. Outtalent core team
 - Meerim Asylbekova
 - Ana Ghidelli
 - Anya Runets
@@ -76,3 +98,38 @@ Google friends outside of SQE:
 - Michael Seibel
 - Olya Irzak
 - Yaroslav Azhnyuk
+
+8. Outtalent fellows (this is definitely not an exhaustive list of fellows I love or the ones I loved working with)
+- Alex Nahirniak
+- Aliya Rysbek
+- Alsu Bikkulova
+- Andrei Guzun
+- Arman Tsaturyan
+- Artem Selischev
+- Cholpon Abdyjaparova
+- Daniela Andreea Moraru
+- Dina Yestemir
+- Dmitry Naimark
+- Dmitry Shaposhnikov
+- Gaziza Yestemir
+- Ihor Peresunko
+- Ilya Noskov
+- Islam Murtazaev
+- Julia Babkina
+- Kamila Makhmudova
+- Kirill Suslov
+- Madina Yusupova
+- Oleg Luganskiy
+- Oleksandra Tokarieva
+- Samatbek Osmonov
+- Sergey Babkin
+- Tymofii Antonenko
+- Vadim Zubov
+- Yakov Shmidt
+- Yana Nemirovsky
+- Yoav Nemirovsky
+
+  9. Outtalent part-time mentors
+  - Dan Silva
+  - Meder Kydyraliev
+  - many many more!!
