@@ -31,7 +31,7 @@ Common skills
 - Altynai Koichumanova
 
 3. Google Dublin, Search Quality Evaluation
-- Russian team: Oxana Komanesku, Vitali Fedulov
+- Russian team: Vitali Fedulov
 - German team: Manuel Holtz, Florian Stein
 - Dutch team: Reinoud Vaandrager
 - Danish team: Jonas Voss
@@ -99,7 +99,7 @@ Notable friends and connections at Google during that time:
 - Olya Irzak
 - Yaroslav Azhnyuk
 
-8. Outtalent graduates (this is definitely not an exhaustive list of fellows I love or the ones I loved working with)
+8. Outtalent graduates (not an exhaustive list of fellows I loved working with)
 - Alex Nahirniak
 - Aliya Rysbek
 - Alsu Bikkulova
@@ -130,8 +130,13 @@ Notable friends and connections at Google during that time:
 - Yana Nemirovsky
 - Yoav Nemirovsky
 
-  9. Outtalent part-time mentors who are not Outtalent graduates
-  - Dan Silva
-  - Meder Kydyraliev
-  - Valera Nemychnikova
-  - many many more!!
+9. Outtalent part-time mentors and contractors who are not Outtalent graduates (not an exhaustive list of mentors I loved working with)
+- Aida Zhumabekova
+- Aijan Ibraimova
+- Ayrin Karatsapova
+- Dalida Yersultan
+- Dan Silva
+- Meder Kydyraliev
+- Marzhan Kabduakhitova
+- Usman Masood
+- Valera Nemychnikova
