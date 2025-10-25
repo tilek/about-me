@@ -77,8 +77,8 @@ Notable friends and connections at Google during that time:
 - Astro Teller
 - Ivo Stivoric
 - Steve Lacy
-- Georgios Evangelopoulos
-- Stef van Grieken
+- Georgios Evangelopoulos (few interactions)
+- Stef van Grieken (few interactions)
 
 6. Outtalent core team
 - Meerim Asylbekova
