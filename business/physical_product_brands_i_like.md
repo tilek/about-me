@@ -89,6 +89,7 @@ Last updated: 2021-12-04
 
 **Skin care and beauty**
 - Rituals* - mainly for visual design
+- Aesop*
 - Innisfree - mainly for visual design
 - Drunk Elephant - mainly for visual design
 - Nivea - mainly for visual design
