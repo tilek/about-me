@@ -47,6 +47,7 @@ Last updated: 2021-12-04
 - Sports
   - Nike** (United States)
   - Lululemon*
+  - Wilson*
 - Outdoor
   - Patagonia**
   - Fjällräven
