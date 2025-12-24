@@ -30,6 +30,11 @@ AUCA
   - Bolushbek Abdyjaparov
 - Ex-wife
   - Aijan Jumukova
+ 
+Getting a job at Google
+- Kulipa Kochumanova, helped find a hotel in Moscow for interviews
+- Ruslan Bakaev, helped prepare for interviews
+- Ermek Akeneev, helped with a reference check
 
 Google Ireland era
 
