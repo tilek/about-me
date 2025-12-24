@@ -24,6 +24,7 @@ AUCA
   - Nancy Leland, co-head of our Software Engineering Department & teacher of Software Engineering
   - Andrew Predoehl, teacher of Data Structures & Algorithms
   - Sergey Sklyar (Sergey Nikolaevich), co-head of our Software Engineering Department
+  - teacher of Italian language
 - Students & friends
   - Vladimir Dolgiy
   - Nurlan Kulcharov
