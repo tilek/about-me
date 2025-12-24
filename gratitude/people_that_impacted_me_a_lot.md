@@ -11,6 +11,7 @@ Family & relatives during childhood
 - My uncle Taalai Koichumanova (Taalay tayake)
 - My cousin Altynai Koichumanova
 - My cousin Alima Koichumanova
+- My cousin Aidar Koichumanov
 
 School
 - Classmates & friends
