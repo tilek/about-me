@@ -77,7 +77,7 @@ Friends I met during Project Loon / Google X time
 San Francisco Friends group
 - Maksim Stepanenko
 - Henrique Ponde
-- Burkey Gur
+- Burkay Gur
 
 Other friends from San Francisco (2014 - 2020)
 - Gavan Wilhite
