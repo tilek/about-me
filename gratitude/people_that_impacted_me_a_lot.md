@@ -1,5 +1,7 @@
-This is a list of people who I felt like/liked/love/loved me and impacted me a lot in positive ways.
+This is a list of people who I felt like/liked/love/loved me and impacted me a lot in positive ways significantly affecting the direction of my life.
 Surely, I forgot or did not yet mention some people that are supposed to be here. I hope you can forgive me.   -- Tilek 🙏
+
+I also added some people to the list of people I loved working with.
 
 Family & relatives during childhood
 - My grandmother from mother's side (tayane)
@@ -33,20 +35,14 @@ Google Ireland era
 - "Nooglers" (people I started at Google with at the same time)
   - Lari Numminen, I also lived with him for many months
 - Search Quality Evaluation team
-  - Russian team: Vitali Fedulov
   - German team: Manuel Holtz, Florian Stein
   - Dutch team: Reinoud Vaandrager
-  - Danish team: Jonas Voss
   - Spanish team: Alvar Lopez
   - Hungarian team: Gyula Simonyi
-  - Portuguese team: Ariel Lambrecht
-  - Finnish team: Anu Ilomäki
-  - Japanese team: Kenji Hirohata, Tomoaki Fujii
-  - Infrastructure team: Jason Morrison, Damien Conlon
+  - Infrastructure team: Jason Morrison
 
 Google, New Business Development, wider team
 - Megan Smith
-- Lydia Mazzie
 
 Google, Emerging Markets New Business Development / Business Product Management team
 - Ishi Singh
@@ -57,16 +53,11 @@ Google, Emerging Markets, wider team & other people I collaborated with during t
 - Nelson Mattos
 - Yariv Adan
 - Divon Lan
-- Badar Khushnood
-- AbdelKarim Mardini
-- Emma Jackson
 - Moritz Neun
 
 Project Loon
 - Mauro Goncalves
 - Sal Candido
-- Sameera Ponda
-- Cyrus Behroozi
 
 Google X wider team
 - Astro Teller
@@ -82,20 +73,23 @@ San Francisco Friends group
 - Maksim Stepanenko
 - Henrique Ponde
 - Burkey Gur
-- Bojan Joveski
-- Erin Welke
 
 Other friends from San Francisco (2014 - 2020)
-- Yaroslav Azhnyuk
-- Olya Irzak
 - Gavan Wilhite
 - Sidd
+
+Outtalent Advisors & Friends
+- Yaroslav Azhnyuk
+- Arman Suleimenov
 
 Outtalent Investors
 - Michael Seibel
 - Elizabeth Weil
 - Kevin Weil
 - David Lieb
+- Anya Hayden
+- Fabio Ribeiro
+- Ariel Lambrecht
 
 Outtalent core team
 - Meerim Asylbekova
@@ -120,16 +114,10 @@ Outtalent graduates
   - [TODO: mention many more]
 
 Outtalent part-time mentors and contractors
-- Aida Zhumabekova
-- Aijan Ibraimova
 - Ayrin Karatsapova
-- Dalida Yersultan
 - Dan Silva
 - Dima Korolev
-- Meder Kydyraliev
-- Marzhan Kabduakhitova
 - Usman Masood
-- Valera Nemychnikova
 - [TODO: mention more people]
 
 2020 - 2024 Searching for myself period
