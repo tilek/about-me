@@ -120,10 +120,10 @@ Outtalent part-time mentors and contractors
 - Usman Masood
 - [TODO: mention more people]
 
-2020 - 2024 Searching for myself period
+2020 - 2024 Rebuilding myself in Kyrgyzstan
 - Jamal Koichumanova
 - Stasya Votinskaya
 - Daniyar Amanaliev & Ainura Amanalieva
 
-2024 and further: Kanyshai period
+2024 and beyond: Kanyshai period
 - Kanyshai Sydygalieva
