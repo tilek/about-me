@@ -16,8 +16,8 @@ This document is created with a realization that I can't fully control my life e
 
 # Hobbies in parallel
 
-1. Music, DJing
-2. Botany, biology
+1. Music, DJing (slowly now)
+2. Botany, biology (in the future)
 
 # Interests
 
@@ -35,18 +35,18 @@ This document is created with a realization that I can't fully control my life e
    - Peace of mind
    - Being kind to myself
    - Living through emotions in a healthy way
-5. Comfortable durable stylish clothes
-6. Comfortable beautiful home
+2. Comfortable durable stylish clothes
+3. Comfortable beautiful home
 
-7. Life partner relationship
+4. Life partner relationship
 - Love, acceptance, support
 - Personal life, playfulness, fun
 - Spending time well together
-8. Friend relationships
-9. Parent relationships
+5. Friend relationships
+6. Parent relationships
 
-10. Outtalent - global innovative company
+7. Outtalent - global innovative company
 
-11. Hobby: DJing 
-12. Other relaxation: interests
+8. Hobby: DJing 
+9. Other relaxation: interests
 
