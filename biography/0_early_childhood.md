@@ -70,7 +70,6 @@ building block. I also often went to my mother's older brother Taalai. In Kyrgyz
 There I played with his two daughters (my older cousin sisters) Alima and Altynai.  
 I even called them "Alima-Altynai" as a single unit.  
 
---------------------------------------------------------------------------------
 ## Main Early Childhood Traumas
 
 In terms of challenges, I think there were two main issues of a parenting style  
