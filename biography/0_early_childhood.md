@@ -73,33 +73,45 @@ I even called them "Alima-Altynai" as a single unit.
 --------------------------------------------------------------------------------
 ## Main Early Childhood Traumas
 
-In terms of challenges, I think there were 4 main ones typical for Soviet Union  
-of that era.  
+In terms of challenges, I think there were two main issues of a parenting style  
+popular in that region in that era that caused traumas.  
 
-1) My mom had what I think is a popular style of parenting for Asia and USSR  
+1) Punitive parenting  
+
+My mom had what I think is a popular style of parenting for Asia and USSR  
 at that time. It means I was yelled at or sometimes physically beaten  
 if I didn't behave in a "proper" way.  
 
+I don't consciously remember any instance of physical punishment but my mom  
+admits that there were some. There were definitely not violent but enough for  
+me to be subconsciously scared of her for decades later.  
+
 One of the earliest memories I have is when I pooped my pants while playing  
-outside. I got so scared my mom would beat me, I was ashamed, uncomfortable  
-but afraid to go home. It's very sad to remember.  
+outside. 😂 I got very scared my mom would beat me. I was ashamed, uncomfortable  
+but afraid to go home. It's very sad to remember for sure. 😔  
 
 My dad did not spend as much time parenting as my mom and did not think very  
 consciously about her parenting style either. He was focused on earning a living  
 as it was usual at a time too but painful nevertheless.  
 
-2) Starting around age 4, 5, or 6 I was already playing unsupervised with other  
-children in the courtyard shared between apartment blocks that is open to anyone  
-passing by.  
+2) Playing unsupervised in the streets  
 
-This caused one incident where I almost fell from a roof of a several  
-story building and another incident related to the "pants area". It became a  
-subconscious trauma that I only remembered accidentally under influence in my  
-30s and was difficult to realize and process.  
+Starting around age 4 to 6 I was already playing with other children in  
+the courtyard shared between apartment blocks that is open to passers-by.  
 
-And no, it wasn't as bad as being touched inappropriately but deeply traumatic  
-regardless. And I am sure it wouldn't have happened if I was supervised at the  
-level that is typical even in Kyrgyzstan nowadays.  
+First of all, it caused one incident where I almost fell from a roof of a  
+several story building.  
+
+Second of all, there was an incident related to the "pants area". 
+
+It became a subconscious trauma that I remembered only accidentally and under
+influence in my 30s. It was very difficult to realize and took a many months  
+of psychotherapy to process and integrate.  
+
+And no, it wasn't as bad as being touched inappropriately but it was very    
+traumatic regardless. And I am sure it wouldn't have happened if I was  
+supervised at the level that is typical even in Kyrgyzstan nowadays. So, I  
+thought for historic reasons it is worth making it very obscurely public.  
 
 ## What Helped Me The Most During Those Times?
 
