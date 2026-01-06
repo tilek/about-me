@@ -16,7 +16,7 @@ used to be called Frunze after one of the commanders of Lenin's revolution.
 There, they studied at the main engineering university in the country.  
 My dad studied construction engineering and my mom studied architecture.  
 
-## Why I Was Named "Tilek"?
+## Why Was I Named "Tilek"?
 
 After getting married in 1980 my parents struggled to have their first child for  
 several years. My understanding is that it was likely because my mother was too  
@@ -48,7 +48,7 @@ I sometimes wonder if it could have been the basis of anxiety running deep in
 my subconscious and the anxious attachment I constantly feel but which I hope  
 to heal someday.  
 
-## My Caregivers
+## Who Were My Caregivers?
 
 I was the first out of two children in a full family with both of my parents.  
 
@@ -67,8 +67,9 @@ I remember playing a lot outside alone and with other children in our apartment
 building block. I also often went to my mother's older brother Taalai. In Kyrgyz,  
 "mother's brother" is called "tayake", so I always call him "Taalai tayake".  
 
-There I played with his two daughters (my older cousin sisters) Alima and Altynai.  
-I even called them "Alima-Altynai" as a single unit.  
+There, I played with his two daughters (my older cousin sisters) Alima and Altynai.  
+I even called them "Alima-Altynai" as a single unit which sounded funny for  
+everyone.
 
 ## Main Early Childhood Traumas
 
@@ -94,8 +95,16 @@ When that happened, I got very scared my mom would beat me. I was ashamed,
 uncomfortable  but afraid to go home. It's very sad to remember for sure.  
 
 My dad did not spend as much time parenting as my mom and did not think very  
-consciously about her parenting style either. He was focused on earning a living  
-as it was usual at a time too but painful nevertheless.  
+consciously about her parenting style either. He was focused on always providing  
+enough for healthy food, high-quality clothing, good vacations at a lake resort,  
+and generally good living for our middle-class / upper-middle-class urban family
+during very challenging transition times from Soviet Union to newly gained  
+independence and conversion to capitalism for Kyrgyzstan. 
+
+His amount of care and attention was probably much more than usual for that  
+time too but I always wished I had more.  
+
+--------------------------------------------------------------------------------
 
 2) Playing unsupervised in the streets  
 
