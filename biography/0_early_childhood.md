@@ -82,13 +82,13 @@ My mom had what I think is a popular style of parenting for Asia and USSR
 at that time. It means I was yelled at or sometimes physically beaten  
 if I didn't behave in a "proper" way.  
 
-I don't consciously remember any instance of physical punishment but I feel it 
+I don't consciously remember any instance of physical punishment but I feel it  
 in my body and my mom admits that there were some. There were definitely not  
 bloody or in any similar violent but enough for me to be subconsciously scared  
 of her for decades later.  
 
 One of the earliest memories I have is when I pooped my pants while playing  
-outside. "It was the exact moment when my consciousness went live" as one famous
+outside. "It was the exact moment when my consciousness went live" as one famous  
 comedian once joked talking about a very similar first memory.  
 
 When that happened, I got very scared my mom would beat me. I was ashamed,  
@@ -97,9 +97,9 @@ uncomfortable  but afraid to go home. It's very sad to remember for sure.
 My dad did not spend as much time parenting as my mom and did not think very  
 consciously about her parenting style either. He was focused on always providing  
 enough for healthy food, high-quality clothing, good vacations at a lake resort,  
-and generally good living for our middle-class / upper-middle-class urban family
+and generally good living for our middle-class / upper-middle-class urban family  
 during very challenging transition times from Soviet Union to newly gained  
-independence and conversion to capitalism for Kyrgyzstan. 
+independence and conversion to capitalism for Kyrgyzstan.  
 
 His amount of care and attention was probably much more than usual for that  
 time too but I always wished I had more.  
