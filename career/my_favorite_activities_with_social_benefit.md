@@ -1,4 +1,4 @@
-Activities I enjoy that could be altruistic
+Here is the list of activities I enjoy that could be socially beneficial.
 
 # 1. Individual
 
