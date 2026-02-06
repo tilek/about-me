@@ -1,4 +1,4 @@
-I created a list of companies that I either invested in or am considering investing in.
+I created a list of companies that I either invested in or would love to invest in.
 
 In my opinion, these companies:
 (1) build great products and services for their customers
@@ -17,18 +17,28 @@ In my opinion, these companies:
 - Airbnb*
 - Spotify
 
-[Likely to go public]
-- Outtalent**
-- Stripe*
-- OpenAI
-- SpaceX
-
-[Slow but steady companies]
-- Dyson
-- IKEA
+[Public] Traditional Category Leaders
 - Muji
 - Nike
+
+[Private] Massive Pre-IPO Superintelligence Companies
+- Anthropic
+- OpenAI
+- SpaceX + xAI + X
+
+[Private] Massive Pre-IPO Category Leaders
+- Stripe**
+- Discord
+- Strava
+
+[Private] Early-Stage Startups
+- Marvin**
+- Primer**
+
+[Private] Traditional Category Leaders
+- Dyson
+- IKEA
 - Patagonia
 
 * - companies I invested in in a public market
-** - companies I invested in at an early-stage
+** - private companies I invested in
