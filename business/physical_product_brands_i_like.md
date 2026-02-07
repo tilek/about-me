@@ -33,6 +33,7 @@ Last updated: 2021-12-04
 ---
 
 **Home**
+- IKEA* (Sweden)
 - Muji* (Japan)
 
 **Kitchen**
