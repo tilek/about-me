@@ -41,8 +41,10 @@
 - Red Bull*** (mainly to learn about their marketing)
 
 ## 6. YouTube channels
-- [CrashCourse](https://www.youtube.com/@crashcourse)
-
-* - I like their CEO, products, business growth but I don't know much about their work culture yet
-** - I don't know much about their CEO and work culture yet but I like their products and business growth
-*** - I would likely work there only short-term (e.g. 1 year) because of the work culture or innnovation
+- [CrashCourse](https://www.youtube.com/@crashcourse)\
+\
+\
+\
+\* - I like their CEO, products, business growth but I don't know much about their work culture yet\
+\*\* - I don't know much about their CEO and work culture yet but I like their products and business growth\
+\*\*\* - I would likely work there only short-term (e.g. 1 year) because of the work culture or innnovation
