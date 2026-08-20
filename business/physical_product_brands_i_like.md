@@ -24,6 +24,12 @@ Last updated: 2026-02-07
 - Sony PlayStation (Japan)
 - Nintendo Wii (Japan)
 
+
+---
+
+**Personal computing devices**
+- Apple** (United States)
+
 ---
 
 **Electrical Home Appliances**
@@ -118,6 +124,5 @@ Last updated: 2026-02-07
 
 ---
 
-\* - I would want my employees to spend time to check out their products
-
+\* - I would want my employees to spend time to check out their products/
 \** - one of the few most inspiring businesses for me
