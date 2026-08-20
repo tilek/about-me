@@ -1,4 +1,4 @@
-# Companies I would consider working for if I could clone myself 🐥🐥🐥🐥🐥
+# Companies I would consider working for if I could clone myself 🐥🐥
 
 #### Criteria
 - Products/services that align with my values
