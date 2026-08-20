@@ -24,7 +24,7 @@ In my opinion, these companies:
 [Private] Massive Pre-IPO Superintelligence Companies
 - Anthropic
 - OpenAI
-- SpaceX + xAI + X
+- SpaceXAI*
 
 [Private] Massive Pre-IPO Category Leaders
 - Stripe**
@@ -41,4 +41,4 @@ In my opinion, these companies:
 - Patagonia
 
 * - companies I invested in in a public market
-** - private companies I invested in
+** - private companies I invested in or have stocks options in
